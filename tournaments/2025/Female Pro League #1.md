@@ -68,8 +68,8 @@ All available official information about **Female Pro League** can be found at t
 ---
 
 ## 📕 Rules & Regulations
-👉 [Google Drive](https://drive.google.com/drive/folders/1Q9Y7AnOqAANuP6Vn3-TQYH-AKVxF1D7g)
-⚠️ The rules for this tournament are published only on Google Drive. The general MySkill rules do not apply to this tournament.
+- 👉 [Google Drive](https://drive.google.com/drive/folders/1Q9Y7AnOqAANuP6Vn3-TQYH-AKVxF1D7g)
+- ⚠️ The rules for this tournament are published only on Google Drive. The general MySkill rules do not apply to this tournament.
 
 ---
 
@@ -143,7 +143,7 @@ All available official information about **Female Pro League** can be found at t
 ---
 
 ## 📕 Регламент и правила
-👉 [Google Drive](https://drive.google.com/drive/folders/1Q9Y7AnOqAANuP6Vn3-TQYH-AKVxF1D7g)
-⚠️ Правила на данный турнир опубликованы только на Google Drive. Общие правила MySkill не распространяются на данный турнир.
+- 👉 [Google Drive](https://drive.google.com/drive/folders/1Q9Y7AnOqAANuP6Vn3-TQYH-AKVxF1D7g)
+- ⚠️ Правила на данный турнир опубликованы только на Google Drive. Общие правила MySkill не распространяются на данный турнир.
 
 ---
