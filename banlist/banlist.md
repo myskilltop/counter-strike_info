@@ -89,8 +89,6 @@ MySkill reserves the right to refuse participation to players who hold active ba
 - FACEIT / public player pages.
 - Akros Anti-Cheat / public announcements.
 
-If additional publisher restrictions are in place for a specific discipline (for example, VAC), they apply **on top of** this list. If there are discrepancies between sources, the information from the “Priority decisions on the CCT case (2025‑10‑02)” section takes precedence.
-
 ---
 
 ## MySkill Banlist (Активные баны)
@@ -181,5 +179,3 @@ Myskill оставляет за собой право отказать в уча
 - FASTCUP / карточки игроков.
 - FACEIT / публичные страницы игроков.
 - Akros Anti-Cheat / публичные анонсы.
-
-Если в конкретной дисциплине действуют дополнительные ограничения издателя (например, VAC), они применяются **сверх** указанного списка. При наличии противоречий между источниками используется информация раздела «Приоритетные решения по делу CCT (2025‑10‑02)».
