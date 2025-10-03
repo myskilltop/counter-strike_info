@@ -1,23 +1,21 @@
 # MySkill Banlist (Active)
 
-> Последнее обновление: 2025-10-03 (GMT+5)
-
 ## Политика допуска
 Myskill оставляет за собой право отказать в участии игрокам, имеющим действующие баны от издателя игры или других киберспортивных организаций, турнирных операторов и античит систем, которые Myskill считает авторитетными. Если участник турнира получил (или получит) бан от античит-системы издателя (Valve Anti-Cheat) либо любой другой античит-системы, используемой на турнирной платформе (включая FaceIT AC, GameGuard, Akros), он подлежит дисквалификации задним числом, начиная с его первого матча.
 
 ---
 
-## Приоритетные решения по делу CCT (2025‑10‑02)
-> Информация ниже **имеет приоритет** перед остальными источниками.
+## Решение по делу CCT (2025‑10‑02)
+[Источник](https://www.hltv.org/news/42833/cct-issues-bans-to-three-teams-for-cheating)
 
 ### Дисквалификация на 2 года (до 2027‑10‑02)
-- **Daniil “tEO” Prok (RU)** — Cheating — источники: CCT / Akros  
-- **Dastan “dosikk” Mauessov (KZ)** — Cheating — источники: CCT / Akros  
-- **Mark “d0RREN” Karachevtsev (RU)** — Cheating — источники: CCT / Akros  
-- **Idris “1Drezz” Beksultanov (KZ)** — Cheating — источники: CCT / Akros  
-- **Nurmukhammed “singulier” Mugal (KZ)** — Cheating — источники: CCT / Akros  
-- **Zhanibek “R3LiFwOw” Kuatov (KZ)** — Cheating — источники: CCT / Akros  
-- **Raiymbek “dune” Dusenov (KZ)** — Account Sharing — источник: CCT
+- **Daniil “tEO” Prok (RU)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/22429/teo)
+- **Dastan “dosikk” Mauessov (KZ)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/24649/dosikk)  
+- **Mark “d0RREN” Karachevtsev (RU)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/23987/d0rren)  
+- **Idris “1Drezz” Beksultanov (KZ)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/24907/1drezz)  
+- **Nurmukhammed “singulier” Mugal (KZ)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/24202/singulier)
+- **Zhanibek “R3LiFwOw” Kuatov (KZ)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/23665/r3lifwow)
+- **Raiymbek “dune” Dusenov (KZ)** — Account Sharing — источник: CCT / Akros — [HLTV](https://www.hltv.org/player/24906/dune) 
 
 ### Дисквалификация на 6 месяцев (до 2026‑04‑02)
 - **ElayDzha (KZ)** — [HLTV](https://www.hltv.org/player/24501/elaydzha)  
@@ -27,8 +25,6 @@ Myskill оставляет за собой право отказать в уча
 - **ddoni (KZ)** — [HLTV](https://www.hltv.org/player/24646/ddoni)  
 - **tsukumeow (KZ)** — [HLTV](https://www.hltv.org/player/24650/tsukumeow)  
 - **krc (KR)** — [HLTV](https://www.hltv.org/player/23990/krc)
-
-> Примечание: записи CCT/Akros в остальных разделах приведены с учётом приоритета — для указанных выше игроков срок **2 года**; ранее отмеченная «Permanent» для этих игроков **заменена** на 2 года.
 
 ---
 
