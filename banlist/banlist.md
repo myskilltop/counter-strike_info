@@ -78,9 +78,14 @@ MySkill reserves the right to refuse participation to players who hold active ba
 | diis6 | DK | — | Cheating | 2024‑02‑26 | 2026‑02‑26 |
 | **EMIYA** | US | rocket | Cheating | 2024‑02‑19 | **Permanent** |
 | zLy | RU | — | Cheating | 2024‑02‑18 | 2026‑02‑18 |
+| aS1cKx666 | KZ | — | Cheating | 2024-02-06 | 2026-06-12 |
 | lockstock | RU | — | Cheating | 2023‑11‑30 | 2025‑11‑30 |
 | r1cks | RU | ec kostroma | Cheating | 2023‑11‑30 | 2025‑11‑30 |
 | Cuizera | TR | tnt gaming | Cheating | 2023‑11‑30 | 2025‑11‑30 |
+
+### MySkill Bans
+https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-05 | 2027-05-05 | (Source)[https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2]
+**https://www.faceit.com/ru/players/123s3x** | Ban Evasion (dan1q) | 2025-05-27 | **Permanent**
 
 ---
 
@@ -170,9 +175,14 @@ Myskill оставляет за собой право отказать в уча
 | diis6 | DK | — | Cheating | 2024‑02‑26 | 2026‑02‑26 |
 | **EMIYA** | US | rocket | Cheating | 2024‑02‑19 | **Permanent** |
 | zLy | RU | — | Cheating | 2024‑02‑18 | 2026‑02‑18 |
+| aS1cKx666 | KZ | — | Cheating | 2024-02-06 | 2026-06-12 |
 | lockstock | RU | — | Cheating | 2023‑11‑30 | 2025‑11‑30 |
 | r1cks | RU | ec kostroma | Cheating | 2023‑11‑30 | 2025‑11‑30 |
 | Cuizera | TR | tnt gaming | Cheating | 2023‑11‑30 | 2025‑11‑30 |
+
+### Баны MySkill
+https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-05 | 2027-05-05 | (Source)[https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2]
+**https://www.faceit.com/ru/players/123s3x** | Ban Evasion (dan1q) | 2025-05-27 | **Permanent**
 
 ---
 
