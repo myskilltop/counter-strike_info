@@ -17,9 +17,9 @@ MySkill reserves the right to refuse participation to players who hold active ba
 - **Idris “1Drezz” Beksultanov (KZ)** — Cheating — sources: CCT / Akros — [HLTV](https://www.hltv.org/player/24907/1drezz)
 - **Nurmukhammed “singulier” Mugal (KZ)** — Cheating — sources: CCT / Akros — [HLTV](https://www.hltv.org/player/24202/singulier)
 - **Zhanibek “R3LiFwOw” Kuatov (KZ)** — Cheating — sources: CCT / Akros — [HLTV](https://www.hltv.org/player/23665/r3lifwow)
-- **Raiymbek “dune” Dusenov (KZ)** — Account Sharing — source: CCT / Akros — [HLTV](https://www.hltv.org/player/24906/dune)
+- **Raiymbek “dune” Dusenov (KZ)** — Account Sharing / Cheating — source: CCT — [HLTV](https://www.hltv.org/player/24906/dune)
 
-### Six-Month Disqualification (until 2026‑04‑02)
+### Six-Month Disqualification for possible complicity (until 2026‑04‑02)
 - **ElayDzha (KZ)** — [HLTV](https://www.hltv.org/player/24501/elaydzha)
 - **rinn (KZ)** — [HLTV](https://www.hltv.org/player/23318/rinn)
 - **OxygeN (KZ)** — [HLTV](https://www.hltv.org/player/23316/oxygen)
@@ -88,6 +88,7 @@ MySkill reserves the right to refuse participation to players who hold active ba
 - FASTCUP / player cards.
 - FACEIT / public player pages.
 - Akros Anti-Cheat / public announcements.
+- [Liquipedia CS2 Other Banned Players](https://liquipedia.net/counterstrike/Banned_Players/Other)
 
 ---
 
@@ -108,9 +109,9 @@ Myskill оставляет за собой право отказать в уча
 - **Idris “1Drezz” Beksultanov (KZ)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/24907/1drezz)
 - **Nurmukhammed “singulier” Mugal (KZ)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/24202/singulier)
 - **Zhanibek “R3LiFwOw” Kuatov (KZ)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/23665/r3lifwow)
-- **Raiymbek “dune” Dusenov (KZ)** — Account Sharing — источник: CCT / Akros — [HLTV](https://www.hltv.org/player/24906/dune)
+- **Raiymbek “dune” Dusenov (KZ)** — Account Sharing / Cheating — источник: CCT — [HLTV](https://www.hltv.org/player/24906/dune)
 
-### Дисквалификация на 6 месяцев (до 2026‑04‑02)
+### Дисквалификация на 6 месяцев в связи с возможным соучастием (до 2026‑04‑02)
 - **ElayDzha (KZ)** — [HLTV](https://www.hltv.org/player/24501/elaydzha)
 - **rinn (KZ)** — [HLTV](https://www.hltv.org/player/23318/rinn)
 - **OxygeN (KZ)** — [HLTV](https://www.hltv.org/player/23316/oxygen)
@@ -179,3 +180,4 @@ Myskill оставляет за собой право отказать в уча
 - FASTCUP / карточки игроков.
 - FACEIT / публичные страницы игроков.
 - Akros Anti-Cheat / публичные анонсы.
+- [Liquipedia другие забаненные игроки CS2](https://liquipedia.net/counterstrike/Banned_Players/Other)
