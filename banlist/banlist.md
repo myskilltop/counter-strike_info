@@ -84,7 +84,7 @@ MySkill reserves the right to refuse participation to players who hold active ba
 | Cuizera | TR | tnt gaming | Cheating | 2023‑11‑30 | 2025‑11‑30 |
 
 ### MySkill Bans
-https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-05 | 2027-05-05 | (Source)[https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2]
+https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-05 | 2027-05-05 | [Source](https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2)
 **https://www.faceit.com/ru/players/123s3x** | Ban Evasion (dan1q) | 2025-05-27 | **Permanent**
 
 ---
@@ -181,7 +181,7 @@ Myskill оставляет за собой право отказать в уча
 | Cuizera | TR | tnt gaming | Cheating | 2023‑11‑30 | 2025‑11‑30 |
 
 ### Баны MySkill
-https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-05 | 2027-05-05 | (Source)[https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2]
+https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-05 | 2027-05-05 | [Source](https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2)
 **https://www.faceit.com/ru/players/123s3x** | Ban Evasion (dan1q) | 2025-05-27 | **Permanent**
 
 ---
