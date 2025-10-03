@@ -64,7 +64,6 @@ These files are continuously updated to reflect the latest requirements for MySk
 ## 🤝 Contribution Guidelines
 - ✅ **Internal Staff**: update documents through pull requests, referencing the changes and reasons in the PR description.
 - 🛡️ **External Requests**: submit suggestions via email; unauthorized direct edits are not permitted.
-- 📝 **Versioning**: include date stamps inside documents when major updates occur.
 
 ---
 
@@ -137,7 +136,6 @@ For questions, clarifications, or requests:
 ### 🔄 Обновления и вклад
 - ✅ **Команда MySkill**: вносите изменения через pull request с описанием причин и основных правок.
 - 🛡️ **Внешние предложения**: направляйте предложения на почту; прямые правки без согласования запрещены.
-- 📝 **Версионность**: при крупных правках указывайте дату обновления внутри самого документа.
 
 ---
 
