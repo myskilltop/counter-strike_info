@@ -39,13 +39,10 @@ A player who participated in any qualifier—regardless of whether they qualifie
 
 ## Emergency Additions and Supplements
 
-> If a team cannot field a full roster due to a serious and unforeseen emergency, it may submit a request for emergency player additions provided supporting documentation is supplied.
->
-> All requests for emergency additions and supporting documents will be reviewed by the tournament administration on a case-by-case basis. Decisions regarding emergency additions are made at the discretion of the tournament administration.
->
-> Restrictions on adding new players continue to apply to emergency additions. Any additional restrictions described in these rules may be waived to facilitate the addition.
->
-> If an emergency addition is approved, the team must cover all costs associated with bringing the new player to the event.
+If a team is unable to field a full roster due to a serious and unforeseen emergency, the team has the right to submit an emergency player addition request, subject to the provision of supporting documentation.
+All emergency player addition requests and supporting documentation will be reviewed by the tournament administration on a case-by-case basis. Decisions on emergency player addition requests are made at the sole discretion of the tournament administration.
+Emergency additions remain subject to the restrictions on adding new players. Any additional restrictions described in this rulebook may be waived to facilitate the addition.
+If an emergency addition is approved, all costs associated with transporting the new player to the event must be covered by the team.
 
 ## Substitutions
 
@@ -53,17 +50,14 @@ A player who participated in any qualifier—regardless of whether they qualifie
 >
 > **Online event substitutions**
 >
-> During online events, substitutions may take place between maps or, with a valid reason (for example, connection issues), at any point during the game. The match may be paused to complete the substitution. The delay may not exceed five (5) minutes. Teams must announce any between-map substitutions at the end of the previous map.
+> During online competitions, substitutions may be made between maps or, for valid reasons (such as connection issues), at any point during the game. If necessary, the game may be paused for substitutions. The delay must not exceed five (5) minutes. Teams must announce any substitutions between maps at the end of the previous map.
 >
 > **Offline event substitutions**
 >
-> Participants may replace players between maps in a series or between matches.
->
-> Any changes to the starting roster for an upcoming map must be reported to the tournament administration after the map veto or immediately after the previous map ends, whichever occurs first.
->
-> Substitute players must be ready immediately after the previous map ends and will not be given additional warm-up time.
->
-> If it is the first match of an offline tournament, the roster must be provided to the tournament administration no later than 24 hours before the scheduled start of the match.
+> Participants are allowed to substitute players between maps of the series or between matches.
+Any changes to the starting lineup for the upcoming map must be communicated to the tournament administration after the map pick or immediately after the conclusion of the previous map, whichever comes first.
+Substitutes will be required to prepare immediately after the conclusion of the previous map and will not be given additional preparation time.
+If this is the first match of an offline tournament, the starting lineup must be communicated to the tournament administration no later than 24 hours before the scheduled start of the match.
 >
 > **Offline coach substitutions**
 >
