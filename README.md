@@ -4,6 +4,7 @@ Welcome to the official **MySkill Tournament Operator** repository.
 Here you will find **regulations, rules, and official information** that govern MySkill tournaments and leagues.
 
 > 🇷🇺 На русском ниже — пролистайте до раздела [«Русская версия»](#-русская-версия).
+[![Hits](https://hits.sh/github.com/myskilltop/counter-strike_info.svg?style=for-the-badge)](https://hits.sh/github.com/myskilltop/counter-strike_info/)
 
 ---
 
