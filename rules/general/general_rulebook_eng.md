@@ -229,6 +229,9 @@ All participants must be at least sixteen (16) years old by the first mandatory 
 A team’s home region (Central Asia or Rest of the World) is determined by the location of all of its players during the tournament and its qualifiers.
 
 Two (2) regions are defined for the tournament: Central Asia and Rest of the World.
+
+The Central Asia region includes the following countries: Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan.
+
 # 8. Player data
 
 Players must provide any information requested by Myskill, including full name, contact details, date of birth, address, game account and a photograph.
@@ -358,33 +361,39 @@ All matches played by players who leave a tournament stage after it has started 
 
 ## 10.1. Punctuality in online matches
 
-Teams must be present on the match server at the scheduled start time. Match channels must be joined at least fifteen (15) minutes before the match.
+TAll tournament matches must begin according to the tournament schedule. Any time changes must be approved by the tournament administration and, if necessary, by the opponent (if a change is possible). All match participants must be logged into the game server and ready to play no later than ten (10) minutes before the start of the match. The tournament administration may adjust the time if deemed necessary.
 
 ## 10.2. Lateness in online matches
 
-If a team is late, the opponent must notify an admin immediately. After fifteen (15) minutes, the admin may award a default win. Repeated lateness is treated as unsportsmanlike behaviour and may result in penalty points or fines.
+If a participant fails to appear on the server ten (10) minutes before the scheduled start time of the match, they may be assessed one (1) penalty point. If they fail to appear on the server five (5) minutes before the scheduled start time of the match, they may be assessed an additional one (1) penalty point. If the participant still has not appeared on the server and is not ready to play by the scheduled start time of the match, they may be assessed an additional one (1) penalty point, with an additional penalty point being assessed every two (2) minutes until fifteen (15) minutes after the scheduled start time of the match, up to a maximum of ten (10) penalty points. In this case, the participant will be considered a no-show.
 
 ## 10.3. Punctuality at offline matches
 
-Teams must arrive at the venue at the times set by the tournament administration. Being ready on stage at the assigned call time is mandatory.
+Players must arrive at their assigned tournament area no later than fifty (50) minutes before the start of their match, unless otherwise directed by tournament administration. Coaches must arrive at their assigned tournament area no later than thirty (30) minutes before the start of their match, unless otherwise directed by tournament administration.
+If a participant knows they will not be able to arrive at their assigned tournament area on time, they must notify tournament administration as soon as possible. Mitigating circumstances and attempts to notify Myskill of the lateness and minimize its consequences may be taken into account when applying penalties. Participants are responsible for monitoring the tournament schedule and any announced changes to avoid lateness.
 
 ## 10.4. Lateness at offline matches
 
-If a team is late for an offline call time, penalties can include map losses, fines or disqualification, depending on the delay and circumstances.
+In the first case, if a participant fails to arrive at their assigned tournament area within the first ten (10) minutes of their expected arrival time, they will receive a warning.
+Thereafter, for every five (5) minutes of delay, the participant will receive one (1) penalty point, up to a maximum of eight (8) penalty points.
+If the participant's lateness extends beyond the scheduled match start time, or if a problem arises as a result of the participant's lateness that delays the match start time, such as because the participant is not yet ready to play, participants will be assessed one and a half (1.5) penalty points for every two (2) minutes up to fifteen (15) minutes after the scheduled match start time. The maximum number of penalty points is twelve (12). After this point, the participant will be considered a no-show.
 
 ## 10.5. Repeated lateness
 
-Repeated lateness increases the severity of sanctions and may lead to removal from the tournament.
+If a participant is late for more than two matches in a single competition, they will be considered a repeat offender, and standard penalties will be increased as follows:
+Match 3 and subsequent incidents: +100%
+If a participant is found to be a repeat offender, they will face more severe penalties at the start of the next Myskill tournament they participate in. The participant will be notified of this before their first match.
 
 ## 10.6. No-shows
 
-Failure to show up without notifying the administration results in disqualification, loss of prize money and possible bans from future events.
+If a participant is not ready to play within 15 minutes of the scheduled start of a match, they are considered a no-show. In this case, the participant is assessed an additional 5 penalty points on top of the penalty points accrued for being late to the match.
+Tournament administration may decide to award a (partial) technical loss if the match consists of more than one map, or to disqualify the participant. After the second 15-minute period, the opponent will be awarded the overall victory in the series. In mitigating circumstances, the match may be rescheduled if the schedule allows.
 
 # 11. Tournament seeding
 
 ## 11.1. Definition of “higher seed”
 
-The higher seed is determined by the tournament administration based on qualification performance, regional ranking or other published criteria.
+The higher seed is determined by the tournament administration based on qualification performance, regional ranking, VRS, FaceIT seeding or other published criteria.
 
 ## 11.2. Seeding based on the Valve regional ranking
 
@@ -398,65 +407,103 @@ A match protest is a formal request to review a match incident that may have aff
 
 ## 12.2. Rules for filing match protests
 
-Protests must be submitted within thirty (30) minutes after the match ends, including evidence and a clear description of the issue. Only the team representative may file a protest. The administration’s decision is final.
+The protest must contain detailed information about the reason for the protest, how the problem arose, and when it occurred. A protest may be rejected without proper documentation. Only one representative from each team may participate in the protest process. Insults and aggression during a protest are strictly prohibited and may result in penalty points or a decision against the offending party.
+Match Protest Deadline
+The deadline for participants to file a match protest is the earliest of the following three events:
+
+- Twelve (12) hours after the scheduled start time of the match.
+- The start of the next match for either of the two participants.
+- For offline events only - at the end of the event day (before the departure of the tournament administration).
 
 # 13. Working with video
 
+In video content (e.g., interviews, featurettes, live camera feeds, etc.) filmed in an environment not controlled by Myskill, the visible environment/background must be neutral, clean, and presentable. Any plans to display sponsors, logos, or advertising (e.g., on a background banner or placed items) must be pre-approved by Myskill.
+Explicit promotion of sponsor products (including their consumption) is prohibited. Brand logos must under no circumstances be larger than players' faces on-screen.
+
 ## 13.1. Voice communications and recordings
 
-Teams must record their voice communications if requested and provide the recordings to the administration. Unauthorized publication of these recordings is prohibited.
+Myskill uses TeamSpeak and Discord for voice communication. Communication during matches is limited to five players per server and one coach.
+
+Staff may connect to the communication channel, but must be passive listeners only (i.e., permanently disconnected). Participants are required to provide TeamSpeak server details upon request and provide full access to tournament administration. Participants will be responsible for the appearance of the TeamSpeak servers they provide, and any inappropriate behavior, language, or content posted on them may be punished. Myskill reserves the right to force the use of one of its servers.
+For offline events, Myskill will provide and control a local TeamSpeak or Discord server.
+Myskill reserves the right to record all conversations during matches. Tournament administration will connect to the TeamSpeak channel thirty (30) minutes before the start of the match and begin recording conversations fifteen (15) minutes before the start of the match.
 
 ## 13.2. Player POV cameras
 
-Players must enable POV cameras when requested for broadcasts or reviews. The administration will provide setup instructions.
+Each online tournament player is required to have a working webcam and a clear, high-quality video feed.
+- Video from the camera must be provided no later than ten (10) minutes before the scheduled match time, before the player connects to the server.
+- Players without a working webcam will not be allowed to participate in the match.
+- The video feed must remain active throughout the entire map, including the pre-match period.
+- Failure to comply with these requirements will automatically disqualify the team or player from the match and may result in further sanctions, including disqualification from the tournament. The following penalties are standard penalties for each missed map:
+Team:
+20% of the roster without camera: $50 + 0.25% of the prize money winnings
+40% of the roster without camera: $100 + 0.5% of the prize money winnings
+60% of the roster without camera: $150 + 0.75% of the prize money winnings
+80% of the roster without camera: $200 + 1% of the prize money winnings
+100% of the roster without camera: $250 + 1.25% of the prize money winnings
+Missing coach: additional $50 + 0.25% of the prize money winnings
+If a participant fails to comply with their video monitoring obligations in more than two matches within a single competition, they will be considered a repeat offender, and the standard penalties will be increased as follows:
+Match 3: +100%
+Match 4: +200%
+Match 5 and subsequent incidents: +300%
+If a participant is found to have violated the rules again, they will face more severe sanctions at the start of the next Myskill tournament they participate in. The participant will be notified of this before their first match.
 
 ## 13.3. Player surveillance cameras
 
-On-site events may use external cameras to monitor players. Participants must comply with placement and operating instructions.
+For online competitions, players may be required to provide a live camera feed showing their setup, including, but not limited to, their monitor, keyboard, mouse, and surrounding area. Specific requirements will be communicated on a case-by-case basis. Compliance with these instructions is mandatory; failure to comply will result in penalties, including disqualification.
 
 # 14. Tournament area
 
+Only players on the server and the coach specified in the tournament registration form are allowed to communicate in the play area assigned to participants during matches. During online tournaments, additional staff may be present in the play area, but they are prohibited from communicating in any way or entering or leaving the play area during matches. Any electronic devices not provided by the tournament administration are prohibited in the play area, with the exception of cameras and devices used exclusively for communicating with the tournament administration.
+
 ## 14.1. Timing
 
-Only players, coaches and authorised staff may access the tournament area at designated times. Teams must follow all access instructions from officials.
+Communications from Myskill (via email, Telegram messenger) that include deadlines are considered an extension of this rulebook and all other Myskill Counter-Strike 2 rulebooks and must be followed as such.
 
 # 15. Substitution rules
 
 ## 15.1. Substitutions
 
-All substitutions must be approved by the administration and may only involve registered players. Substitutes must be ready to play without delaying the schedule.
+If a team is unable to continue participating in the event for any reason, a replacement will be assigned. If this occurs before the replacement deadline, the replacement participant will receive all financial benefits, such as airfare and hotel accommodations allocated to the replaced participant.
+Typically, groups or brackets are not reassigned if they were publicly announced before the teams are eliminated. In exceptional cases where the integrity of the competition is at risk, the tournament administration may change the composition of the participants or even conduct a new draw.
+Replacement candidates will be reviewed and contacted to determine their willingness to participate.
 
 ## 15.2. Replacing a team that qualified through open qualifiers
 
-If a qualified team cannot participate, the administration may invite the next best team from the qualifier or another suitable replacement. Replacement teams must meet all eligibility requirements.
+If a team that qualified through one of the open qualifiers withdraws from the tournament, its slot will be awarded to the next-highest-performing team from the most recent open qualifier in the corresponding region.
+For example, if the overall open qualifier winner withdraws from the tournament, the slot will be awarded to the team that lost to the withdrawn team in the open qualifier, but only if the replacement is made two days before the start of the first group stage match.
+
 # 16. Event rules
 
 ## 16.1. Equipment
 
-Myskill provides monitors, PCs, SSDs and noise-cancelling headsets. Players must bring their own peripherals (keyboard, mouse, mousepad, in-ear headset with long cables and, if needed, a sound card). All gear must be approved by the administration, which may refuse any device that offers an unfair advantage. BIOS settings on tournament or practice PCs may not be changed.
+Myskill always provides monitors, computers, SSDs, and noise-canceling headphones.
+Participants must bring their own peripherals (specifically: keyboard, mouse, mousepad, in-ear headphones with sufficiently long cables, and sound cards if necessary). All gaming equipment must be approved by tournament administration. Myskill reserves the right to refuse the use of any equipment and/or devices it deems to provide an unfair advantage. Participants may be asked to submit their equipment for additional inspection. Participants wishing to use more than one piece of the same equipment must obtain approval from tournament administration.
+Attempting to change any BIOS settings on Myskill-provided computers in tournament or practice areas is strictly prohibited.
 
 ## 16.2. Snap Tap ban
 
-Snap Tap, Rappy Snappy and similar features are strictly forbidden. Violations can result in map forfeits or disqualification.
+Use of Snap Tap, Rappy Snappy, or any similar mechanisms that lead to similar results is strictly prohibited. Failure to comply with this rule may result in penalties ranging from map loss to disqualification from the tournament.
 
 ## 16.3. Configurations and drivers
 
-Participants must submit their configs and required drivers (software names and version numbers) by the deadline set before the event. Late submissions may force players to configure settings on site using default drivers without additional setup time.
+All participants must submit their configurations and a list of required drivers (software names and version numbers) by the deadline set by the tournament administration prior to the event. Failure to submit their configurations and drivers may require a manual configuration on-site and the team will be required to play with the default drivers. Teams will not be given additional time to manually configure their configurations.
+Submitted configuration folders may only include:
 
-## 16.4.–16.6. CS2 files
+## 16.4. Convar CS2 Configurations
+Steam\userdata\YOUR_ID\730\local\cfg\cs2_machine_convars.vcfg
+Steam\userdata\YOUR_ID\730\local\cfg\cs2_user_convars_0_slot0.vcfg
 
-Only the following configuration files may be provided:
+## 16.5. CS2 Keybinding Configuration
+userdata\YOUR_ID\730\local\cfg\cs2_user_keys_0_slot0.vcfg
 
-- `Steam\userdata\YOUR_ID\730\local\cfg\cs2_machine_convars.vcfg`
-- `Steam\userdata\YOUR_ID\730\local\cfg\cs2_user_convars_0_slot0.vcfg`
-- `userdata\YOUR_ID\730\local\cfg\cs2_user_keys_0_slot0.vcfg`
-- `userdata\YOUR_ID\730\local\cfg\cs2_video.txt`
-
-Players may additionally submit a text file describing launch options or GPU/monitor settings.
+## 16.6. CS2 Video Settings:
+userdata\YOUR_ID\730\local\cfg\cs2_video.txt
+In addition, each participant can submit a text file with any other settings, such as launch parameters, NVIDIA settings, or monitor settings.
 
 ## 16.7. Clothing
 
-Teams must wear matching uniforms, long trousers and closed shoes. Headwear is prohibited unless the administration grants an exemption for medical or religious reasons (requests must be submitted at least 48 hours before the event). Minor violations incur fines of at least 250 USD; serious cases (offensive imagery, other team logos) prevent players from starting until the issue is resolved. Myskill may provide replacement clothing and deduct its cost from prize money. Delays caused by changing clothes count as player errors and may be penalised for lateness.
+Players and teams must wear matching team attire, long pants, and closed-toe shoes (e.g., shorts, flip-flops, and foam clogs like Crocs are prohibited). Headgear of any kind is prohibited. Special exceptions may be granted on a case-by-case basis for compelling medical or religious reasons. Requests for such exceptions must be submitted directly to tournament administration via email at least 48 hours prior to the start of the competition, unless a medical emergency prevents timely submission. Minor violations of this rule will result in fines (minimum $250), but in serious cases (e.g., offensive content, clothing with another team's logo, etc.), players will not be allowed to start matches until the offending item of clothing is replaced. If possible and deemed appropriate by tournament administration, Myskill will provide appropriate clothing to participants who are inappropriately dressed. The cost of the provided clothing will be deducted from the prize money awarded to participants. Any delay caused by changing clothing will be considered the player's fault and will be penalized according to the punctuality rules.
 
 ## 16.8. Following instructions
 
@@ -464,29 +511,50 @@ All tournament instructions must be obeyed. Ignoring directions may result in pe
 
 ## 16.9. Tournament briefings
 
-Pre-event player briefings sent by email are supplements to these rules and are mandatory.
+Pre-event player briefings sent by email or Telegram are supplements to these rules and are mandatory.
 
 ## 16.10. Technical checklist
 
-After setup, players must sign the technical checklist confirming readiness. Technical pauses caused by issues that should have been detected via the checklist incur one (1) penalty point and additional delay penalties. Matches may start even if problems arise that could have been addressed during the checklist procedure.
+After completing the setup process, players must sign a technical checklist. This process is necessary to ensure the integrity of the system used for competition participation before the match begins.
+Technical pauses caused by issues that should have been detected had the checklist been properly followed will be penalized with one (1) penalty point, along with any other applicable delay penalties. By signing this document, participants confirm their readiness to begin the match as scheduled. Participants may be forced to start the match even if a technical issue arises that could have been resolved by following the checklist.
 
 ## 16.11. Arrival day
 
-Participants must check into the tournament hotel on the specified arrival date. Missing the date triggers a minimum 500 USD fine and may lead to disqualification if the delay disrupts operations. Flight delays outside the participant’s control and local residents not staying at the hotel are exempt. Exceptions for media-day arrivals or first-day appearances are granted only if logistics allow, and approved teams bear any additional travel costs.
+Participants must arrive at the participant's hotel by the date designated by Myskill as the "Arrival Date." Failure to arrive on the designated date will incur a minimum fine of $500, which will increase depending on the extent of the disruption to scheduled events. In cases where Myskill deems the reason for the delay unacceptable, disqualification and replacement of the participant may be considered. Penalties will not be assessed if flight delays are due to circumstances beyond the participant's control, or if the participant lives nearby and is not staying at the participant's hotel.
+Participants may request an exception via email to arrive on Media Day if their scheduled participation in another LAN event conflicts with the designated arrival date.
+However, such exceptions will only be granted if the total number of requests does not impact the integrity of the event. Additionally, Myskill reserves the right to approve an alternative arrival on the first day of the tournament, subject to travel logistics, time estimates, and other operational factors. All requests will be reviewed on a case-by-case basis. Participants who have been approved for an alternative arrival date are responsible for covering any additional transportation costs associated with the rescheduled event.
 
 ## 16.12. Media obligations
 
-Players must attend interviews, press conferences, autograph sessions, photo shoots and video shoots when requested. Interviewees must be players unless Myskill specifies otherwise, and different interviews require different players. Most events include a mandatory press day. Schedules are provided in advance for activities lasting more than five minutes. Requested promotional materials must be submitted on time.
+If Myskill decides that one or more players should participate in interviews (short pre-match/post-match interviews and/or longer interview sessions), press conferences, autograph sessions, photo sessions, or video sessions, they may not decline and are required to attend. For all Myskill tournament matches, participants may not decline a request to be interviewed. The interviewee must be a player unless otherwise specifically requested by Myskill. The same interviewee cannot be provided for multiple requests within an event.
 
-## 16.13–16.15. Media penalties
+Most events will have a mandatory press day, during which participants will be photographed, filmed, and interviewed by Myskill for event promotion.
 
-Missing media obligations incurs fines. Typical penalties include:
+If necessary, participants will receive a press session schedule in advance to be informed of the nature, duration, and schedule of any such activities that exceed five (5) minutes.
 
-- Press day absence: 500 USD + 5% of prize winnings
-- Autograph session: from 600 USD + 0.75% (1–30% of roster absent) up to 2000 USD + 2.5% (entire roster absent)
-- Press conference: from 360 USD + 0.45% up to 1200 USD + 1.5%, depending on the percentage of absent players
+In some cases, participants may be asked to provide materials for use in Myskill-organized broadcasts. Failure to provide them on time upon request will be considered a failure to fulfill an obligation to the media.
 
-Comparable penalties apply to similar obligations. Fines may be reduced if the team arrives late but still completes the activity or can show mitigating circumstances.
+## 16.13. Media penalties
+
+Failure to fulfill media obligations will result in penalties. The amount of these penalties varies depending on the situation. Below are the standard penalties for the most common cases:
+Failure to appear on time and in full for press day: $500 + 5% of the prize money
+
+## 16.14. Partial attendance or lateness to an autograph session:
+
+1-30% of the lineup absent: $600 + 0.75% of the prize money winnings
+31-50% of the lineup absent: $800 + 1% of the prize money winnings
+51-70% of the lineup absent: $1,000 + 1.25% of the prize money winnings
+71-99% of the lineup absent: $1,200 + 1.5% of the prize money winnings
+100% of the lineup absent: $2,000 + 2.5% of the prize money winnings
+
+## 16.15. Late or incomplete press conference attendance:
+
+1-30% of the lineup absent: $360 + 0.45% of the prize money winnings
+31-50% of the lineup absent: $480 + 0.6% of the prize money winnings
+51-70% of the lineup absent: $600 + 0.75% of the prize money winnings
+71-99% of the lineup absent: $720 + 0.9% of the prize money winnings
+100% of the lineup absent: $1200 + 1.5% of the prize money winnings
+Similar penalties will apply for failure to fulfill other comparable media-related obligations. Penalties may be reduced if the participant arrives late, but early enough to create the required content/conduct an acceptable session. Fines may also be reduced if the Participant can provide evidence of mitigating circumstances. This decision is made by the tournament administration independently.
 
 ## 16.16. Stage matches
 
@@ -498,15 +566,19 @@ Unless announced otherwise, food is not allowed in tournament areas. Smoking and
 
 ## 16.18. Electronic devices
 
-Electronic devices (phones, cameras, vapes, tablets, hand warmers, etc.) may not be connected to tournament PCs or brought into the area without prior inspection and approval. Disallowed devices must be surrendered before the match. Taking photos or recordings on stage is forbidden.
+Connecting or using any electronic devices (e.g., phones, cameras, vaporizers, tablets, hand warmers, etc.) to tournament computers without prior inspection and approval from tournament administrators is strictly prohibited. Participants are prohibited from bringing any electronic devices, cameras, or similar devices (e.g., vaporizers) into the tournament area without permission from tournament administration. Such devices must be returned to tournament administration prior to the start of the match. Participants are prohibited from taking photographs and/or recording any notes on stage.
 
 ## 16.19. Unnecessary items
 
-Unneeded items (bags, spare clothing, etc.) should be kept out of sight. Reasonable tactical notes (e.g., notebooks or up to 20 sheets of A4 paper) may be placed on the desks.
+Items that are not currently necessary (e.g., clothing not being worn, bags, etc.) should be stored out of view of broadcast cameras.
+Paper copies of tactical documents may be placed on desks in reasonable sizes and quantities (e.g., a notepad, a stack of A4 paper no larger than 20 sheets).
 
-## 16.20. Warm-up period
+## 16.20. Setup period
 
-Offline matches usually include a thirty (30) minute warm-up period for setting up peripherals and warming up, although it is not guaranteed. Teams receive the exact schedule upon arrival. Both teams are granted equal setup time and may enter the area only together, except when a participant is late for reasons beyond their control. Time spent outside the area still counts toward the warm-up. Additional time may be granted at the head referee’s discretion for unforeseeable technical issues, but problems caused by personal equipment or by delaying the start voluntarily do not justify extra time.
+A thirty (30) minute setup period is typically provided before a live match, including installing peripherals, settings, and warming up, although this period is not guaranteed.
+The exact setup time will be communicated to teams upon arrival at the tournament venue.
+Both teams will be given equal setup time and will only be permitted to enter the tournament area at the same time. An exception is the case of one (1) team member arriving late for reasons beyond their control.
+Any time spent outside the tournament playing area during this thirty (30) minute period will continue to count toward the setup time. At the discretion of the Head Referee, additional setup time may be granted if a technical issue arises that was not foreseeable in advance. Any technical issues caused by a player's equipment (e.g. peripherals or in-ear headphones) will not result in additional preparation time being granted, nor will technical issues that arise after a player has chosen not to begin preparation when the tournament area is open to them.
 
 ## 16.21. Rights to photos and other media
 
@@ -518,11 +590,22 @@ Participants must remain at the venue for the trophy ceremony after the grand fi
 
 ## 16.23. Areas provided by Myskill
 
-Participants must respect all restrictions at the venue, hotel and host country when access is granted by Myskill. Only Myskill-approved marketing activities are allowed in these areas.
+Participants are required to adhere to all restrictions in place at the tournament venue, hotel, and country if access is provided by Myskill. This applies to both participants who are no longer participating in the tournament and those who continue to participate. Only Myskill-approved marketing activities are permitted in areas provided by Myskill (e.g., tournament areas, practice rooms, hotel rooms, etc.).
 
 # 17. Myskill code of conduct
 
-Participants must act respectfully toward Myskill representatives, press, fans, partners and other players. They are expected to represent esports, Myskill and their sponsors with dignity across the game, voice services and online communities. Core values include compassion, integrity, respect and courage. Harassment, hate speech, doxxing, unwanted sexual attention, intimidation and similar behaviour are prohibited.
+Each participant must behave respectfully toward Myskill representatives, the press, spectators, partners, and other players. Participants must represent esports, Myskill, and their sponsors with dignity. This applies to their behavior in-game, on TeamSpeak (Discord), as well as in chats, messengers, comments, and other media. We expect players to conduct themselves in accordance with the following values:
+• Compassion: Treat others as you would like to be treated.
+• Integrity: Be honest, committed, and play fair.
+• Respect: Show respect for all others, including teammates, opponents, and event staff.
+• Courage: Be bold in competing and standing up for what is right.
+• Participants are prohibited from engaging in harassment or hate speech of any kind. This includes, but is not limited to:
+• Harassment or verbal abuse based on gender, gender identity and expression, sexual orientation, race, ethnicity, disability, physical appearance, body size, age, or religion.
+• Harassment or intimidation (physical or online).
+• Spamming, raiding, intercepting, or soliciting disruption of streams or social media.
+• ​​Posting or threatening to post personally identifiable information about others ("doxing").
+• Unwelcome sexual attention. This includes unwanted sexual comments, jokes, and sexual harassment.
+• Promoting or encouraging any of the above behavior.
 
 # 18. Cheating / fraud
 
@@ -548,31 +631,32 @@ Competing online or offline while under the influence of alcohol or other substa
 
 ## 18.6. Betting and gambling
 
-Players, managers, staff and organisation leaders may not bet on Myskill matches or share information that could facilitate betting. Violations lead to immediate disqualification and at least a one-year ban for all involved parties; additional sanctions may apply.
+Players, team managers, employees, or management of organizations participating in the tournament are prohibited from betting or gambling, engaging in relationships with players or bettors, or providing anyone with information that could directly or indirectly facilitate betting or gambling on Myskill matches or the competition in general. Any betting or gambling against your organization's matches will result in immediate disqualification of the organization and a minimum one-year ban from all Myskill competitions for all participants. Any other violation will be punished at the discretion of the tournament administration.
 
 ## 18.7. Competition manipulation
 
-Offering benefits, making threats or exerting pressure on anyone connected to Myskill to influence match results is considered competition manipulation.
+Offering money/benefits, threatening, or pressuring anyone associated with Myskill to influence the outcome of a match is considered competition manipulation.
+The most common example is offering an opponent money in exchange for winning.
 
 ## 18.8. Penalties for manipulating competition
 
-Detected manipulation leads to annulled results, disqualification, forfeiture of prize money, bans of one to two years and possible fines.
+If any attempt to manipulate Myskill competition results is detected, the results of the relevant matches will be annulled. The participant will be disqualified, forfeited any prize money, and banned from all Myskill competitions for a period of one to two years. A fine may also be imposed.
 
 ## 18.9. Match-fixing
 
-Attempting to alter match results for purposes unrelated to sporting success—including intentional losses to affect bets—is match-fixing.
+The use of any means to manipulate the outcome of a match for purposes not related to achieving sporting success in a given tournament is considered match-fixing. The most common example is intentionally losing a match in order to manipulate bets on it.
 
 ## 18.10. Penalties for match-fixing
 
-Match-fixing results in annulled matches, disqualification, forfeiture of prize money and bans of up to five years (longer with aggravating factors) plus potential fines.
+If match-fixing is detected in Myskill, the results of the match(es) in question are annulled. Participants are disqualified, lose their prize money, and are banned from all Myskill competitions, typically for up to five years. This period may be reduced in the presence of significant mitigating circumstances, but may be extended in the presence of aggravating circumstances. A fine is also possible.
 
 ## 18.11. Limits when imposing penalties
 
-Sanctions may be issued within ten (10) years for cheating and match-fixing, five (5) years for falsifying personal information and shorter periods for minor offences.
+Penalties may be imposed for a limited period after the punishable incident. In cases of fraud and match-fixing, this period is ten (10) years. For violations such as falsifying telephone numbers or providing false information regarding legally relevant personal data (name, age, nationality, place of residence, etc.), the penalty period is five (5) years. Minor violations may expire sooner.
 
 ## 18.12. Penalties from the publisher and other organisations
 
-Myskill may deny participation to players banned by the publisher or other reputable organisers and anti-cheat systems. Players banned by VAC or other platform anti-cheat tools (FACEIT AC, GameGuard, Akros, etc.) are retroactively disqualified from their first match onward.
+Myskill reserves the right to deny participation to players with active bans from the game publisher or other esports organizations, tournament operators, and anti-cheat systems Myskill deems authoritative. If a tournament participant has received (or will receive) a ban from the publisher's anti-cheat system (Valve Anti-Cheat) or any other anti-cheat system used on the tournament platform (including FaceIT AC, GameGuard, and Akros), they are subject to retroactive disqualification, starting from their first match.
 
 ## 18.13. Online etiquette
 
@@ -580,27 +664,28 @@ Maintaining a fair and enjoyable environment is essential. Breaches of etiquette
 
 ## 18.14. Public behaviour
 
-Participants must avoid behaviour that damages the reputation or commercial value of Myskill, its partners or other participants, including offensive public statements or social media posts.
+All participants must refrain from unfair, unwanted, or negative behavior toward anyone in any way connected with the competition.
+All participants are required to refrain from any actions or omissions, whether illegal or otherwise, that could in any way damage the reputation, disrespect, scandal, ridicule, or harm the public relations or commercial value of any participant in the competition. This includes making offensive comments about Myskill, its partners, or its products in interviews, statements, and/or on social media.
 
 ## 18.15. Insults
 
-Insults directed at Myskill are punishable, whether during matches or on Myskill-related platforms.
+All insults related to Myskill will be punished. This primarily applies to insults during matches, as well as on any Myskill-owned or affiliated platforms.
 
 ## 18.16. Messaging insults
 
-Abusive messages sent via programs, email or other channels linked to Myskill are subject to sanctions. Severe cases involving radical statements or threats of violence may lead to expulsion or disqualification. Penalties may target the individual or the team, depending on the offence.
+Violations committed via email or other means of communication will be punished if their connection to Myskill is established and irrefutable evidence is provided. Particularly severe cases of insults, accompanied by radical statements or threats of physical violence, may result in significantly more severe penalties, including expulsion or disqualification of the participant. Depending on the nature and severity of the insult, the penalty will be imposed on the player or team.
 
 ## 18.17. Spam
 
-Posting excessive, offensive or aggressive messages on Myskill platforms is considered spam and is penalised according to severity.
+Excessive posting of meaningless, offensive, or aggressive messages is considered spam by Myskill. Distributing spam on any Myskill-owned or affiliated platforms will be punished depending on the nature and severity of the violation.
 
 ## 18.18. Damage or contamination
 
-Participants who damage or soil venues, furniture, equipment or similar items incur fines of at least 500 USD, which may increase based on repair costs, required effort and reputational harm.
+Participants who commit actions that may result in, or have resulted in, damage to or contamination of premises, furniture, equipment, or similar items will be fined no less than $500. The fine may be increased based on the cost of restoring the items to their original condition, the effort expended to resolve the issue, and any damage to the reputation of third parties or the public.
 
 ## 18.19. Unsportsmanlike conduct
 
-Unsportsmanlike behaviour is punishable even if not explicitly listed. The administration may issue penalties for any conduct that undermines fair play.
+To ensure an orderly and enjoyable game, all participants must conduct themselves in a sportsmanlike manner. The most serious and common violations are listed below. However, tournament administration may impose penalties for unsportsmanlike conduct not explicitly listed.
 
 ## 18.20. Playing on another account
 
