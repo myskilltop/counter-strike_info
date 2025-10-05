@@ -220,9 +220,18 @@ Discord servers may also be used in online competitions to coordinate matches, m
 
 **The following requirements must be met to take part in the event:**
 
-## 7.1. Age requirements
+## 7.1. Age restrictions
 
-All participants must be at least sixteen (16) years old by the first mandatory day of the competition, including media days and qualifiers.
+There are no age restrictions for participation in the competition.
+Players who have not reached the age of eighteen (18) at the time of the first 
+mandatory day of the competition (including media days and qualifying stages) 
+are only allowed to participate with the written consent of a parent 
+or legal representative.
+
+The organizer reserves the right to request a document confirming the identity 
+of the participant and/or legal representative, as well as written consent to participate in the tournament.
+
+Translated with DeepL.com (free version)
 
 ## 7.2. Country / region of origin
 
