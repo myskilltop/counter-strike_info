@@ -494,46 +494,30 @@ Attempting to change any BIOS settings on Myskill-provided computers in tourname
 
 Use of Snap Tap, Rappy Snappy, or any similar mechanisms that lead to similar results is strictly prohibited. Failure to comply with this rule may result in penalties ranging from map loss to disqualification from the tournament.
 
-## 16.3. Configurations and drivers
-
-All participants must submit their configurations and a list of required drivers (software names and version numbers) by the deadline set by the tournament administration prior to the event. Failure to submit their configurations and drivers may require a manual configuration on-site and the team will be required to play with the default drivers. Teams will not be given additional time to manually configure their configurations.
-Submitted configuration folders may only include:
-
-## 16.4. Convar CS2 Configurations
-Steam\userdata\YOUR_ID\730\local\cfg\cs2_machine_convars.vcfg
-Steam\userdata\YOUR_ID\730\local\cfg\cs2_user_convars_0_slot0.vcfg
-
-## 16.5. CS2 Keybinding Configuration
-userdata\YOUR_ID\730\local\cfg\cs2_user_keys_0_slot0.vcfg
-
-## 16.6. CS2 Video Settings:
-userdata\YOUR_ID\730\local\cfg\cs2_video.txt
-In addition, each participant can submit a text file with any other settings, such as launch parameters, NVIDIA settings, or monitor settings.
-
-## 16.7. Clothing
+## 16.3. Clothing
 
 Players and teams must wear matching team attire, long pants, and closed-toe shoes (e.g., shorts, flip-flops, and foam clogs like Crocs are prohibited). Headgear of any kind is prohibited. Special exceptions may be granted on a case-by-case basis for compelling medical or religious reasons. Requests for such exceptions must be submitted directly to tournament administration via email at least 48 hours prior to the start of the competition, unless a medical emergency prevents timely submission. Minor violations of this rule will result in fines (minimum $250), but in serious cases (e.g., offensive content, clothing with another team's logo, etc.), players will not be allowed to start matches until the offending item of clothing is replaced. If possible and deemed appropriate by tournament administration, Myskill will provide appropriate clothing to participants who are inappropriately dressed. The cost of the provided clothing will be deducted from the prize money awarded to participants. Any delay caused by changing clothing will be considered the player's fault and will be penalized according to the punctuality rules.
 
-## 16.8. Following instructions
+## 16.4. Following instructions
 
 All tournament instructions must be obeyed. Ignoring directions may result in penalty points.
 
-## 16.9. Tournament briefings
+## 16.5. Tournament briefings
 
 Pre-event player briefings sent by email or Telegram are supplements to these rules and are mandatory.
 
-## 16.10. Technical checklist
+## 16.6. Technical checklist
 
 After completing the setup process, players must sign a technical checklist. This process is necessary to ensure the integrity of the system used for competition participation before the match begins.
 Technical pauses caused by issues that should have been detected had the checklist been properly followed will be penalized with one (1) penalty point, along with any other applicable delay penalties. By signing this document, participants confirm their readiness to begin the match as scheduled. Participants may be forced to start the match even if a technical issue arises that could have been resolved by following the checklist.
 
-## 16.11. Arrival day
+## 16.7. Arrival day
 
 Participants must arrive at the participant's hotel by the date designated by Myskill as the "Arrival Date." Failure to arrive on the designated date will incur a minimum fine of $500, which will increase depending on the extent of the disruption to scheduled events. In cases where Myskill deems the reason for the delay unacceptable, disqualification and replacement of the participant may be considered. Penalties will not be assessed if flight delays are due to circumstances beyond the participant's control, or if the participant lives nearby and is not staying at the participant's hotel.
 Participants may request an exception via email to arrive on Media Day if their scheduled participation in another LAN event conflicts with the designated arrival date.
 However, such exceptions will only be granted if the total number of requests does not impact the integrity of the event. Additionally, Myskill reserves the right to approve an alternative arrival on the first day of the tournament, subject to travel logistics, time estimates, and other operational factors. All requests will be reviewed on a case-by-case basis. Participants who have been approved for an alternative arrival date are responsible for covering any additional transportation costs associated with the rescheduled event.
 
-## 16.12. Media obligations
+## 16.8. Media obligations
 
 If Myskill decides that one or more players should participate in interviews (short pre-match/post-match interviews and/or longer interview sessions), press conferences, autograph sessions, photo sessions, or video sessions, they may not decline and are required to attend. For all Myskill tournament matches, participants may not decline a request to be interviewed. The interviewee must be a player unless otherwise specifically requested by Myskill. The same interviewee cannot be provided for multiple requests within an event.
 
@@ -543,12 +527,12 @@ If necessary, participants will receive a press session schedule in advance to b
 
 In some cases, participants may be asked to provide materials for use in Myskill-organized broadcasts. Failure to provide them on time upon request will be considered a failure to fulfill an obligation to the media.
 
-## 16.13. Media penalties
+## 16.9. Media penalties
 
 Failure to fulfill media obligations will result in penalties. The amount of these penalties varies depending on the situation. Below are the standard penalties for the most common cases:
 Failure to appear on time and in full for press day: $500 + 5% of the prize money
 
-## 16.14. Partial attendance or lateness to an autograph session:
+## 16.10. Partial attendance or lateness to an autograph session:
 
 1-30% of the lineup absent: $600 + 0.75% of the prize money winnings
 31-50% of the lineup absent: $800 + 1% of the prize money winnings
@@ -556,7 +540,7 @@ Failure to appear on time and in full for press day: $500 + 5% of the prize mone
 71-99% of the lineup absent: $1,200 + 1.5% of the prize money winnings
 100% of the lineup absent: $2,000 + 2.5% of the prize money winnings
 
-## 16.15. Late or incomplete press conference attendance:
+## 16.11. Late or incomplete press conference attendance:
 
 1-30% of the lineup absent: $360 + 0.45% of the prize money winnings
 31-50% of the lineup absent: $480 + 0.6% of the prize money winnings
@@ -565,39 +549,39 @@ Failure to appear on time and in full for press day: $500 + 5% of the prize mone
 100% of the lineup absent: $1200 + 1.5% of the prize money winnings
 Similar penalties will apply for failure to fulfill other comparable media-related obligations. Penalties may be reduced if the participant arrives late, but early enough to create the required content/conduct an acceptable session. Fines may also be reduced if the Participant can provide evidence of mitigating circumstances. This decision is made by the tournament administration independently.
 
-## 16.16. Stage matches
+## 16.12. Stage matches
 
 Participants must play all stage matches they reach. No exceptions are allowed.
 
-## 16.17. Food, drinks, smoking and behaviour
+## 16.13. Food, drinks, smoking and behaviour
 
 Unless announced otherwise, food is not allowed in tournament areas. Smoking and vaping are banned. Drinks are permitted only in Myskill-provided containers and must be kept under the table if not stated otherwise. Excessive noise and offensive language are prohibited.
 
-## 16.18. Electronic devices
+## 16.14. Electronic devices
 
 Connecting or using any electronic devices (e.g., phones, cameras, vaporizers, tablets, hand warmers, etc.) to tournament computers without prior inspection and approval from tournament administrators is strictly prohibited. Participants are prohibited from bringing any electronic devices, cameras, or similar devices (e.g., vaporizers) into the tournament area without permission from tournament administration. Such devices must be returned to tournament administration prior to the start of the match. Participants are prohibited from taking photographs and/or recording any notes on stage.
 
-## 16.19. Unnecessary items
+## 16.15. Unnecessary items
 
 Items that are not currently necessary (e.g., clothing not being worn, bags, etc.) should be stored out of view of broadcast cameras.
 Paper copies of tactical documents may be placed on desks in reasonable sizes and quantities (e.g., a notepad, a stack of A4 paper no larger than 20 sheets).
 
-## 16.20. Setup period
+## 16.16. Setup period
 
 A thirty (30) minute setup period is typically provided before a live match, including installing peripherals, settings, and warming up, although this period is not guaranteed.
 The exact setup time will be communicated to teams upon arrival at the tournament venue.
 Both teams will be given equal setup time and will only be permitted to enter the tournament area at the same time. An exception is the case of one (1) team member arriving late for reasons beyond their control.
 Any time spent outside the tournament playing area during this thirty (30) minute period will continue to count toward the setup time. At the discretion of the Head Referee, additional setup time may be granted if a technical issue arises that was not foreseeable in advance. Any technical issues caused by a player's equipment (e.g. peripherals or in-ear headphones) will not result in additional preparation time being granted, nor will technical issues that arise after a player has chosen not to begin preparation when the tournament area is open to them.
 
-## 16.21. Rights to photos and other media
+## 16.17. Rights to photos and other media
 
 By attending the event, all team members grant Myskill the right to use any photos, audio or video captured for promotional purposes.
 
-## 16.22. Award ceremony
+## 16.18. Award ceremony
 
 Participants must remain at the venue for the trophy ceremony after the grand final.
 
-## 16.23. Areas provided by Myskill
+## 16.19. Areas provided by Myskill
 
 Participants are required to adhere to all restrictions in place at the tournament venue, hotel, and country if access is provided by Myskill. This applies to both participants who are no longer participating in the tournament and those who continue to participate. Only Myskill-approved marketing activities are permitted in areas provided by Myskill (e.g., tournament areas, practice rooms, hotel rooms, etc.).
 
