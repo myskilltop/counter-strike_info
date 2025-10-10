@@ -3,9 +3,23 @@
 > This document consolidates the active bans recognized by MySkill across trusted publishers, tournament platforms, and anti-cheat providers. The English text below reflects the original Russian entries in the same order. The original Russian-language content is retained after the English version for reference.
 
 ## Eligibility Policy
-MySkill reserves the right to refuse participation to players who hold active bans from the game publisher or other esports organizations, tournament operators, and anti-cheat systems that MySkill deems authoritative. If a tournament participant has received (or receives) a ban from the publisher’s anti-cheat system (Valve Anti-Cheat) or any other anti-cheat system used on the tournament platform (including FaceIT AC, GameGuard, Akros), they are subject to retroactive disqualification starting from their first match.
+MySkill reserves the right to refuse participation to players who hold active bans from the game publisher or other esports organizations (like ESIC and others), tournament operators, and anti-cheat systems that MySkill deems authoritative. If a tournament participant has received (or receives) a ban from the publisher’s anti-cheat system (Valve Anti-Cheat) or any other anti-cheat system used on the tournament platform (including FaceIT AC, GameGuard, Akros), they are subject to retroactive disqualification starting from their first match.
 
 ---
+
+## ESIC Informant Sanction Reduction (2025‑10‑10)
+[Source](https://esic.gg/sanction-outcome/esic-applies-informant-sanction-reduction-to-participant-erkhan-gokushima-bagynanov/)
+
+### Eighteen-Month Sanction (until 2025‑10‑10)
+- **Erkhan “Gokushima” Bagynanov (RU)** — Match manipulation / ESIC Anti-Corruption Code breaches — 2024‑03‑27 → 2025‑10‑10 — source: ESIC — [HLTV](https://www.hltv.org/player/24316/gokushima)
+
+### Lifetime Sanction
+- **Egor “Zly” Polyakov (RU)** — Match manipulation / ESIC Anti-Corruption Code breaches — 2025‑10‑10 → **Permanent** — source: ESIC
+
+### Five-Year Sanctions (until 2030‑10‑09)
+- **Alexandr “Ruler” Maximov (RU)** — Match manipulation / ESIC Anti-Corruption Code breaches — 2025‑10‑10 → 2030‑10‑09 — source: ESIC
+- **Dimitriy “Propleh” Senigov (RU)** — Match manipulation / ESIC Anti-Corruption Code breaches — 2025‑10‑10 → 2030‑10‑09 — source: ESIC
+- **Peter “timeagento” (ex damiel) Markheev (RU)** — Match manipulation / ESIC Anti-Corruption Code breaches — 2025‑10‑10 → 2030‑10‑09 — source: ESIC
 
 ## Decision on the CCT Case (2025‑10‑02)
 [Source](https://www.hltv.org/news/42833/cct-issues-bans-to-three-teams-for-cheating)
@@ -103,6 +117,20 @@ https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-
 Myskill оставляет за собой право отказать в участии игрокам, имеющим действующие баны от издателя игры или других киберспортивных организаций, турнирных операторов и античит систем, которые Myskill считает авторитетными. Если участник турнира получил (или получит) бан от античит-системы издателя (Valve Anti-Cheat) либо любой другой античит-системы, используемой на турнирной платформе (включая FaceIT AC, GameGuard, Akros), он подлежит дисквалификации задним числом, начиная с его первого матча.
 
 ---
+
+## Снижение санкции ESIC (2025‑10‑10)
+[Источник](https://esic.gg/sanction-outcome/esic-applies-informant-sanction-reduction-to-participant-erkhan-gokushima-bagynanov/)
+
+### Дисквалификация на 18 месяцев (до 2025‑10‑10)
+- **Erkhan “Gokushima” Bagynanov (RU)** — Манипуляции результатом / нарушения Кодекса ESIC по борьбе с коррупцией — 2024‑03‑27 → 2025‑10‑10 — источник: ESIC — [HLTV](https://www.hltv.org/player/24316/gokushima)
+
+### Пожизненная дисквалификация
+- **Egor “Zly” Polyakov (RU)** — Манипуляции результатом / нарушения Кодекса ESIC по борьбе с коррупцией — 2025‑10‑10 → **Пожизненно** — источник: ESIC
+
+### Дисквалификация на 5 лет (до 2030‑10‑09)
+- **Alexandr “Ruler” Maximov (RU)** — Манипуляции результатом / нарушения Кодекса ESIC по борьбе с коррупцией — 2025‑10‑10 → 2030‑10‑09 — источник: ESIC
+- **Dimitriy “Propleh” Senigov (RU)** — Манипуляции результатом / нарушения Кодекса ESIC по борьбе с коррупцией — 2025‑10‑10 → 2030‑10‑09 — источник: ESIC
+- **Peter “timeagento” (ex damiel) Markheev (RU)** — Манипуляции результатом / нарушения Кодекса ESIC по борьбе с коррупцией — 2025‑10‑10 → 2030‑10‑09 — источник: ESIC
 
 ## Решение по делу CCT (2025‑10‑02)
 [Источник](https://www.hltv.org/news/42833/cct-issues-bans-to-three-teams-for-cheating)
