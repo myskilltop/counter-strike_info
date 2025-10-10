@@ -11,7 +11,7 @@ MySkill reserves the right to refuse participation to players who hold active ba
 [Source](https://esic.gg/sanction-outcome/esic-applies-informant-sanction-reduction-to-participant-erkhan-gokushima-bagynanov/)
 
 ### Eighteen-Month Sanction (until 2025‑10‑10)
-- **Erkhan “Gokushima” Bagynanov (RU)** — Match manipulation / ESIC Anti-Corruption Code breaches — 2024‑03‑27 → 2025‑10‑10 — source: ESIC — [HLTV](https://www.hltv.org/player/24316/gokushima)
+- **Erkhan “Gokushima” Bagynanov (RU)** — Match manipulation / ESIC Anti-Corruption Code breaches — 2024‑03‑27 → 2025‑10‑10 — source: ESIC — [HLTV](https://www.hltv.org/player/21387/gokushima)
 
 ### Lifetime Sanction
 - **Egor “Zly” Polyakov (RU)** — Match manipulation / ESIC Anti-Corruption Code breaches — 2025‑10‑10 → **Permanent** — source: ESIC
@@ -122,7 +122,7 @@ Myskill оставляет за собой право отказать в уча
 [Источник](https://esic.gg/sanction-outcome/esic-applies-informant-sanction-reduction-to-participant-erkhan-gokushima-bagynanov/)
 
 ### Дисквалификация на 18 месяцев (до 2025‑10‑10)
-- **Erkhan “Gokushima” Bagynanov (RU)** — Манипуляции результатом / нарушения Кодекса ESIC по борьбе с коррупцией — 2024‑03‑27 → 2025‑10‑10 — источник: ESIC — [HLTV](https://www.hltv.org/player/24316/gokushima)
+- **Erkhan “Gokushima” Bagynanov (RU)** — Манипуляции результатом / нарушения Кодекса ESIC по борьбе с коррупцией — 2024‑03‑27 → 2025‑10‑10 — источник: ESIC — [HLTV](https://www.hltv.org/player/21387/gokushima)
 
 ### Пожизненная дисквалификация
 - **Egor “Zly” Polyakov (RU)** — Манипуляции результатом / нарушения Кодекса ESIC по борьбе с коррупцией — 2025‑10‑10 → **Пожизненно** — источник: ESIC
