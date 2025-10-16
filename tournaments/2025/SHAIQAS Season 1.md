@@ -84,7 +84,8 @@
 ## 🏢 Организатор турнира
 **MySkill**
 
-С подробным регламентом и требованиями к участию можно ознакомиться в официальных правилах MySkill **[ТУТ](https://github.com/myskilltop/counter-strike_info/tree/main/rules/general)**.
+- С подробным регламентом и требованиями к участию можно ознакомиться в официальных правилах MySkill **[ТУТ](https://github.com/myskilltop/counter-strike_info/tree/main/rules/general)**.
+- Банлист MySkill: **[ТУТ](https://github.com/myskilltop/counter-strike_info/blob/main/banlist/banlist.md)**.
 
 ---
 
@@ -174,4 +175,5 @@ Top 4 teams from Closed Qualifiers compete on LAN in Almaty, Kazakhstan.
 ## 🏢 Tournament Organizer
 **MySkill**
 
-For detailed tournament rules and participation requirements, please refer to the MySkill rulebooks **[HERE](https://github.com/myskilltop/counter-strike_info/tree/main/rules/general)**.
+- For detailed tournament rules and participation requirements, please refer to the MySkill rulebooks **[HERE](https://github.com/myskilltop/counter-strike_info/tree/main/rules/general)**.
+- MySkill Banlist: **[HERE](https://github.com/myskilltop/counter-strike_info/blob/main/banlist/banlist.md)**.
