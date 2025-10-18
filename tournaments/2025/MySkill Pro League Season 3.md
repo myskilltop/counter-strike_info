@@ -42,7 +42,8 @@
 
 ### 🟡 Групповой этап (Swiss)
 
-**16 команд**, прошедших через открытые квалификации, распределяются согласно **VRS-посеву** (или жеребьёвке для команд без VRS).
+* **16 команд**, прошедших через открытые квалификации, распределяются согласно **VRS-посеву** (или жеребьёвке для команд без VRS).
+* **VRS-посев** будет произведён в **каждом раунде**.
 
 **Формат:**
 
@@ -159,7 +160,8 @@ Four rounds of open qualifiers will determine **16 teams** advancing to the Grou
 
 ### 🟡 Group Stage (Swiss)
 
-**16 teams** from the open qualifiers are ordered by **VRS seeding** (or random draw for teams without VRS).
+* **16 teams** from the open qualifiers are ordered by **VRS seeding** (or random draw for teams without VRS).
+* **VRS seeding** will be made in **every round**.
 
 **Format:**
 
