@@ -1,5 +1,11 @@
 # MySkill Pro League Season 3
 
+![Игроки на сцене MySkill Pro League](https://pbs.twimg.com/media/G3jtGAKWwAAjZU5?format=jpg&name=4096x4096)
+
+![Командные обсуждения в перерыве](https://pbs.twimg.com/media/G3jtHM7X0AEMLAw?format=jpg&name=4096x4096)
+
+![Трофей MySkill Pro League](https://pbs.twimg.com/media/G3jtJ3dWUAAmLI7?format=jpg&name=4096x4096)
+
 🔥 **Призовой фонд — 20 000 000 тенге**
 Открытые квалификации, групповой этап по швейцарской системе, плей-офф Double Elimination и **LAN Finals** в Алматы — MySkill Pro League S3 собирает сильнейшие команды региона.
 
