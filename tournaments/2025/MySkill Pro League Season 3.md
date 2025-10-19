@@ -12,6 +12,7 @@
 ---
 
 * **Регистрация:** https://forms.gle/8VEwnNwcP2VDdWNz7 (откроется 1 ноября в 15:00 (GMT +5)
+* **Окончание регистрации:** 17 ноября — 20:00 (GMT+5)
 * **Прозрачность регистрации:** в порядке очереди; временные метки подачи заявок доступны для общего просмотра будет доступна публично после открытия регистрации в данном посте (он обновится).
 
 ---
@@ -130,6 +131,7 @@ Open qualifiers, a Swiss-format group stage, Double Elimination Playoffs, and **
 ---
 
 * **Registration:** [https://forms.gle/8VEwnNwcP2VDdWNz7](https://forms.gle/8VEwnNwcP2VDdWNz7) (opens **November 1 at 15:00 (GMT +5)**)
+* **Registration End:** November 17 — 20:00 (GMT+5)
 * **Registration transparency:** first-come, first-served; submission timestamps will be made publicly available in this post after registration opens (this post will be updated).
 
 ---
