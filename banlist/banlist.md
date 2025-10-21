@@ -100,6 +100,7 @@ MySkill reserves the right to refuse participation to players who hold active ba
 ### MySkill Bans
 https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-05 | 2027-05-05 | [Source](https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2)
 **https://www.faceit.com/ru/players/123s3x** | Ban Evasion (dan1q) | 2025-05-27 | **Permanent**
+76561199824074233 | https://www.faceit.com/en/players/albanno2711 | Repeated deception of the administration | 2025-10-21 | 2026-10-21
 
 ---
 
@@ -211,6 +212,7 @@ Myskill оставляет за собой право отказать в уча
 ### Баны MySkill
 https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-05 | 2027-05-05 | [Source](https://www.hltv.org/matches/2383539/modeame-vs-iberian-soul-exort-the-proving-grounds-season-2)
 **https://www.faceit.com/ru/players/123s3x** | Ban Evasion (dan1q) | 2025-05-27 | **Permanent**
+76561199824074233 | https://www.faceit.com/en/players/albanno2711 | Неоднократный обман администрации | 2025-10-21 | 2026-10-21
 
 ---
 
