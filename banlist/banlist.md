@@ -53,6 +53,11 @@ MySkill reserves the right to refuse participation to players who hold active ba
 |---|---:|---|---|---:|---:|---|
 | **Floki** | BR | 20/70 | Cheating | 2025‑01‑16 | Permanent | Akros |
 | **joel** | SE | bc.game esports | Cheating | 2024‑08‑04 | Permanent | Akros |
+| **Masi** | PL | Dziuseppe | Cheating | 2025‑10‑22 | Permanent | Akros |
+| **Fugor** | PL | Dziuseppe | Cheating | 2025‑10‑22 | Permanent | Akros |
+| **Skodo** | DK | WOPA Esport | Cheating | 2025‑10‑20 | Permanent | Akros |
+| **Axelen** | SE | Northern Lights | Matchfixing & Cheating | 2025‑10‑10 | Permanent | Akros |
+| **Meinz** | SE | Northern Lights | Matchfixing | 2025‑10‑10 | Permanent | Akros |
 
 
 ### FASTCUP
@@ -165,6 +170,11 @@ Myskill оставляет за собой право отказать в уча
 |---|---:|---|---|---:|---:|---|
 | **Floki** | BR | 20/70 | Cheating | 2025‑01‑16 | Permanent | Akros |
 | **joel** | SE | bc.game esports | Cheating | 2024‑08‑04 | Permanent | Akros |
+| **Masi** | PL | Dziuseppe | Cheating | 2025‑10‑22 | Permanent | Akros |
+| **Fugor** | PL | Dziuseppe | Cheating | 2025‑10‑22 | Permanent | Akros |
+| **Skodo** | DK | WOPA Esport | Cheating | 2025‑10‑20 | Permanent | Akros |
+| **Axelen** | SE | Northern Lights | Matchfixing & Cheating | 2025‑10‑10 | Permanent | Akros |
+| **Meinz** | SE | Northern Lights | Matchfixing | 2025‑10‑10 | Permanent | Akros |
 
 
 ### FASTCUP
