@@ -135,6 +135,11 @@ A participant is a team or player competing in a Myskill tournament.
 
 Any member of a team competing in a Myskill tournament is considered part of that team regardless of whether they have played a match for it. No participant may be part of multiple organisations that are taking part in overlapping Myskill Counter-Strike competitions.
 
+All participants must also comply with the current
+[Myskill ban list](https://github.com/myskilltop/counter-strike_info/blob/main/banlist/banlist.md).
+Breaching this requirement will trigger the sanctions described in this
+rulebook.
+
 In exceptional circumstances, a transition period may be granted that allows a participant to finish one competition with their current team while beginning another with a different team.
 
 If you are unsure, contact a tournament administrator to confirm whether a given competition creates a conflict of interest.

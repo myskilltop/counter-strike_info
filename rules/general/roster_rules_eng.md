@@ -20,6 +20,10 @@
 > Each team competing in a Myskill tournament is encouraged to register substitute players to mitigate possible losses during the event.
 >
 > Myskill reserves the right to publish the line-ups of qualified teams as part of its own marketing activities to promote the tournament.
+>
+> **Mandatory invited-player presence**
+>
+> In accordance with the updated VRS regulations, the Tournament Operator will declare a forfeit in any match where a roster fails to field at least three invited roster players for the full duration of the game.
 
 ## Adding a New Player
 
