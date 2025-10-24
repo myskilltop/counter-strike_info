@@ -1,3 +1,5 @@
+This document is a translation of the official regulations written in Russian. In case of any discrepancies or differences in interpretation between this translation and the original Russian version, the Russian version shall prevail.
+
 # Table of Contents
 
 - [1. Scope of this Rulebook](#1-scope-of-this-rulebook)
