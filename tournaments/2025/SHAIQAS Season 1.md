@@ -74,8 +74,8 @@
 - **Онлайн-этапы:** Открытые и закрытые квалификации  
 - **LAN-финал:** Алматы, Казахстан  
 
-⚠️ Игроки, проходящие на LAN-финал, должны иметь действующую визу в Казахстан на даты проведения турнира.
-
+- ⚠️ Игроки, проходящие на LAN-финал, должны иметь действующую визу в Казахстан на даты проведения турнира.
+- ⚠️ **Travel Support НЕ ПРЕДОСТАВЛЯЕТСЯ**. Проживание предоставляется в виде номеров в гостинице на 5 человек за счёт Турнирного Оператора.
 ---
 
 ## 🧭 VRS (Valve Regional Standings)
@@ -165,7 +165,8 @@ Top 4 teams from Closed Qualifiers compete on LAN in Almaty, Kazakhstan.
 - **Online Stages:** Open and Closed Qualifiers  
 - **LAN Main Event:** Almaty, Kazakhstan  
 
-⚠️ Players advancing to the LAN must hold a valid visa for Kazakhstan covering event dates.
+- ⚠️ Players advancing to the LAN must hold a valid visa for Kazakhstan covering event dates.
+- ⚠️ **Travel Support IS NOT PROVIDED**. Accommodation is provided in the form of hotel rooms for 5 people at the expense of the Tournament Operator.
 
 ---
 
