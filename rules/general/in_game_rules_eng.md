@@ -208,7 +208,7 @@ Matches will not be stopped and/or rounds will not be restarted or replayed in c
 Intentional exploitation of any bugs, glitches, or errors in the game is prohibited. Tournament administration will decide at its sole discretion whether the exploitation of these bugs impacted the match and whether rounds or the match will be awarded to the opposing team, or a rematch will be ordered. Exploitation of the following bugs is strictly prohibited. If a bug exploit is not listed here, the decision regarding penalties will be made by tournament administration:
 • Moving through restricted areas where movement is not allowed by the map design (any walls, ceilings, floors, etc.).
 • Bombs cannot be planted in a location where they cannot be defusal.
-• Bomb planting (planting) must be done in a way that prevents anyone from hearing the sound signal or bomb plant sound.
+• Bomb planting (planting) was done in a way that prevents anyone from hearing the sound signal or bomb plant sound.
 • Pixel Walking. A player is considered to be in violation of this rule if they sit or stand on invisible pixels on the map where there is no visible edge. Violating any map features using objects (e.g., stopping the train on Overpass).
 It is recommended to check with the tournament administration to determine whether a specific bug or glitch is considered prohibited.
 
