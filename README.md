@@ -26,3 +26,7 @@
 
 ## 📌 Контакты · Contacts
 - 📧 info@myskill.kz
+- 📷 [Instagram](https://www.instagram.com/myskill.top/)
+- ▶️ [YouTube](https://www.youtube.com/@myskill_top/)
+- 🎮 [Twitch](http://twitch.tv/myskill_top)
+- 💬 [Discord](https://discord.gg/myskill)
