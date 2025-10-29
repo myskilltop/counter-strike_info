@@ -25,9 +25,10 @@ The tournament uses the latest available game client. If the newest build introd
 
 ### 2. Anti-cheat
 
-FACEIT Anti-Cheat ([link](https://www.faceit.com/en/anti-cheat)) is mandatory for all qualifier matches. Players who cannot run the FACEIT client cannot compete.
+The Tournament Operator may, at its discretion, designate the required anti-cheat for any stage.
 
-Akros Anti-Cheat ([link](https://akros.ac/#download)) must be used during group stages and playoffs. Players are responsible for having valid credentials and two-factor authentication configured before the competition.
+* If matches are played on the FACEIT platform, FACEIT Anti-Cheat ([link](https://www.faceit.com/en/anti-cheat)) is mandatory for all participants.
+* If matches are hosted on the Tournament Operator’s own servers, Akros Anti-Cheat ([link](https://akros.ac/#download)) may be required; in that case, the Operator will announce this in the captains’ group no later than 1 day before the first matches on Akros-protected servers.
 
 ### 3. Map veto procedure
 
