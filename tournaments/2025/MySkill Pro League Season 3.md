@@ -111,6 +111,8 @@
 * **Онлайн:** Открытые квалификации, Групповой этап, Play-off
 * **LAN Finals:** Казахстан, **г. Алматы, Дворец спорта им. Балуана Шолака**
 * **Визовый регион:** Казахстан (KZ). Для участия в LAN-финале в Алматы необходимо иметь право на въезд в Казахстан в указанные даты.
+* **Travel Support лимитирована до 1 500 USD** на команду и будет выдана вместе с призовыми согласно регламенту турнира.
+* **Проживание предоставляется** в отеле в номерах на 5 человек, а также трансфер (из аэропорта до отеля, обратно и до тренировочных площадок) обеспечивается со стороны лиги.
 
 ---
 
@@ -230,6 +232,8 @@ Four rounds of open qualifiers will determine **16 teams** advancing to the Grou
 * **Online:** Open Qualifiers, Group Stage, Playoffs
 * **LAN Finals:** Kazakhstan, **Almaty, Baluan Sholak Sports Palace**
 * **Visa region:** Kazakhstan (KZ). To participate in the LAN Finals in Almaty, you must have the right to enter Kazakhstan on the specified dates.
+* **Travel Support is limited to 1,500 USD per team** and will be issued together with the prize money in accordance with the tournament regulations.
+* **Accommodation is provided** in hotel rooms for 5 people, and airport transfers (from the airport to the hotel and back, as well as to and from practice facilities) are also covered by the league.
 
 ---
 
