@@ -75,7 +75,7 @@
 
 ### 🏆 LAN Finals
 
-**3 команды**, оставшиеся после Play-off, продолжают единый брекет с плей-офф и распределяются согласно **VRS-посеву**.
+**3 команды**, оставшиеся после Play-off, продолжают единый брекет с плей-офф.
 
 **Формат:**
 
@@ -196,7 +196,7 @@ Four rounds of open qualifiers will determine **16 teams** advancing to the Grou
 
 ### 🏆 LAN Finals
 
-**3 teams** remaining after the Playoffs continue from the same bracket and are ordered by **VRS seeding**.
+**3 teams** remaining after the Playoffs continue from the same bracket.
 
 **Format:**
 
