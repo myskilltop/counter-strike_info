@@ -80,6 +80,7 @@
 
 ## 🧭 VRS (Valve Regional Standings)
 - **Дата публикации VRS:** Последняя доступная версия на момент окончания 4-й открытой квалификации.
+- UPD: https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/live/2025/standings_global_2025_11_03.md
 
 ---
 
@@ -172,6 +173,7 @@ Top 4 teams from Closed Qualifiers compete on LAN in Almaty, Kazakhstan.
 
 ## 🧭 VRS (Valve Regional Standings)
 - **VRS Publication Date:** The latest available version of VRS at the time of ending Open Qual #4.
+- UPD: https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/live/2025/standings_global_2025_11_03.md
 
 ---
 
