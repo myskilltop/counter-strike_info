@@ -7,6 +7,16 @@ MySkill reserves the right to refuse participation to players who hold active ba
 
 ---
 
+## European Pro League Series 3 (2025‑11‑21)
+[Source](https://www.hltv.org/news/43218/short-news-week-47#20)
+
+### Permanent Ban
+- **Aslan “ElayDzha” Erkashov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+- **Rauan “rinn” Bakbergen (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+- **Dastan “dosikzz” Erkinov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+- **Argyn “for2na” Nurgaliev (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+- **Abylay “OxygeN” Khamitov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+
 ## ESIC Informant Sanction Reduction (2025‑10‑10)
 [Source](https://esic.gg/sanction-outcome/esic-applies-informant-sanction-reduction-to-participant-erkhan-gokushima-bagynanov/)
 
@@ -37,16 +47,6 @@ MySkill reserves the right to refuse participation to players who hold active ba
 - **ddoni (KZ)** — [HLTV](https://www.hltv.org/player/24646/ddoni)
 - **tsukumeow (KZ)** — [HLTV](https://www.hltv.org/player/24650/tsukumeow)
 - **krc (KR)** — [HLTV](https://www.hltv.org/player/23990/krc)
-
-## European Pro League Series 3 (2025‑11‑21)
-[Source](https://www.hltv.org/news/43218/short-news-week-47#20)
-
-### Permanent Ban
-- **Aslan “ElayDzha” Erkashov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
-- **Rauan “rinn” Bakbergen (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
-- **Dastan “dosikzz” Erkinov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
-- **Argyn “for2na” Nurgaliev (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
-- **Abylay “OxygeN” Khamitov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
 
 ---
 
@@ -130,7 +130,17 @@ Myskill оставляет за собой право отказать в уча
 
 ---
 
-## Снижение санкции ESIC (2025‑10‑10)
+## European Pro League Series 3 (2025‑11‑21)
+[Источник](https://www.hltv.org/news/43218/short-news-week-47#20)
+
+### Пожизненная дисквалификация
+- **Aslan “ElayDzha” Erkashov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+- **Rauan “rinn” Bakbergen (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+- **Dastan “dosikzz” Erkinov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+- **Argyn “for2na” Nurgaliev (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+- **Abylay “OxygeN” Khamitov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+
+## Cанкции ESIC (2025‑10‑10)
 [Источник](https://esic.gg/sanction-outcome/esic-applies-informant-sanction-reduction-to-participant-erkhan-gokushima-bagynanov/)
 
 ### Дисквалификация на 18 месяцев (до 2025‑10‑10)
@@ -160,16 +170,6 @@ Myskill оставляет за собой право отказать в уча
 - **ddoni (KZ)** — [HLTV](https://www.hltv.org/player/24646/ddoni)
 - **tsukumeow (KZ)** — [HLTV](https://www.hltv.org/player/24650/tsukumeow)
 - **krc (KR)** — [HLTV](https://www.hltv.org/player/23990/krc)
-
-## European Pro League Series 3 (2025‑11‑21)
-[Источник](https://www.hltv.org/news/43218/short-news-week-47#20)
-
-### Пожизненная дисквалификация
-- **Aslan “ElayDzha” Erkashov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
-- **Rauan “rinn” Bakbergen (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
-- **Dastan “dosikzz” Erkinov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
-- **Argyn “for2na” Nurgaliev (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
-- **Abylay “OxygeN” Khamitov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
 
 ---
 
