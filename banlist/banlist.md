@@ -7,6 +7,16 @@ MySkill reserves the right to refuse participation to players who hold active ba
 
 ---
 
+## European Pro League Series 3 (2025‑11‑21)
+[Source](https://www.hltv.org/news/43218/short-news-week-47#20)
+
+### Permanent Ban
+- **Aslan “ElayDzha” Erkashov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+- **Rauan “rinn” Bakbergen (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+- **Dastan “dosikzz” Erkinov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+- **Argyn “for2na” Nurgaliev (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+- **Abylay “OxygeN” Khamitov (KZ)** — Suspected use of third-party software / possible match-fixing — source: European Pro League
+
 ## ESIC Informant Sanction Reduction (2025‑10‑10)
 [Source](https://esic.gg/sanction-outcome/esic-applies-informant-sanction-reduction-to-participant-erkhan-gokushima-bagynanov/)
 
@@ -24,7 +34,7 @@ MySkill reserves the right to refuse participation to players who hold active ba
 ## Decision on the CCT Case (2025‑10‑02)
 [Source](https://www.hltv.org/news/42833/cct-issues-bans-to-three-teams-for-cheating)
 
-### Two-Year Disqualification (until 2027‑10‑02)
+### Permanent Ban
 - **Daniil “tEO” Prok (RU)** — Cheating — sources: CCT / Akros — [HLTV](https://www.hltv.org/player/22429/teo)
 - **Dastan “dosikk” Mauessov (KZ)** — Cheating — sources: CCT / Akros — [HLTV](https://www.hltv.org/player/24649/dosikk)
 - **Mark “d0RREN” Karachevtsev (RU)** — Cheating — sources: CCT / Akros — [HLTV](https://www.hltv.org/player/23987/d0rren)
@@ -34,10 +44,6 @@ MySkill reserves the right to refuse participation to players who hold active ba
 - **Raiymbek “dune” Dusenov (KZ)** — Account Sharing / Cheating — source: CCT — [HLTV](https://www.hltv.org/player/24906/dune)
 
 ### Six-Month Disqualification for possible complicity (until 2026‑04‑02)
-- **ElayDzha (KZ)** — [HLTV](https://www.hltv.org/player/24501/elaydzha)
-- **rinn (KZ)** — [HLTV](https://www.hltv.org/player/23318/rinn)
-- **OxygeN (KZ)** — [HLTV](https://www.hltv.org/player/23316/oxygen)
-- **for2na (KZ)** — [HLTV](https://www.hltv.org/player/23539/for2na)
 - **ddoni (KZ)** — [HLTV](https://www.hltv.org/player/24646/ddoni)
 - **tsukumeow (KZ)** — [HLTV](https://www.hltv.org/player/24650/tsukumeow)
 - **krc (KR)** — [HLTV](https://www.hltv.org/player/23990/krc)
@@ -124,7 +130,17 @@ Myskill оставляет за собой право отказать в уча
 
 ---
 
-## Снижение санкции ESIC (2025‑10‑10)
+## European Pro League Series 3 (2025‑11‑21)
+[Источник](https://www.hltv.org/news/43218/short-news-week-47#20)
+
+### Пожизненная дисквалификация
+- **Aslan “ElayDzha” Erkashov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+- **Rauan “rinn” Bakbergen (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+- **Dastan “dosikzz” Erkinov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+- **Argyn “for2na” Nurgaliev (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+- **Abylay “OxygeN” Khamitov (KZ)** — Подозрение в использовании стороннего ПО / возможный матч‑фиксинг — источник: European Pro League
+
+## Cанкции ESIC (2025‑10‑10)
 [Источник](https://esic.gg/sanction-outcome/esic-applies-informant-sanction-reduction-to-participant-erkhan-gokushima-bagynanov/)
 
 ### Дисквалификация на 18 месяцев (до 2025‑10‑10)
@@ -141,7 +157,7 @@ Myskill оставляет за собой право отказать в уча
 ## Решение по делу CCT (2025‑10‑02)
 [Источник](https://www.hltv.org/news/42833/cct-issues-bans-to-three-teams-for-cheating)
 
-### Дисквалификация на 2 года (до 2027‑10‑02)
+### Пожизненная дисквалификация
 - **Daniil “tEO” Prok (RU)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/22429/teo)
 - **Dastan “dosikk” Mauessov (KZ)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/24649/dosikk)
 - **Mark “d0RREN” Karachevtsev (RU)** — Cheating — источники: CCT / Akros — [HLTV](https://www.hltv.org/player/23987/d0rren)
@@ -151,10 +167,6 @@ Myskill оставляет за собой право отказать в уча
 - **Raiymbek “dune” Dusenov (KZ)** — Account Sharing / Cheating — источник: CCT — [HLTV](https://www.hltv.org/player/24906/dune)
 
 ### Дисквалификация на 6 месяцев в связи с возможным соучастием (до 2026‑04‑02)
-- **ElayDzha (KZ)** — [HLTV](https://www.hltv.org/player/24501/elaydzha)
-- **rinn (KZ)** — [HLTV](https://www.hltv.org/player/23318/rinn)
-- **OxygeN (KZ)** — [HLTV](https://www.hltv.org/player/23316/oxygen)
-- **for2na (KZ)** — [HLTV](https://www.hltv.org/player/23539/for2na)
 - **ddoni (KZ)** — [HLTV](https://www.hltv.org/player/24646/ddoni)
 - **tsukumeow (KZ)** — [HLTV](https://www.hltv.org/player/24650/tsukumeow)
 - **krc (KR)** — [HLTV](https://www.hltv.org/player/23990/krc)
