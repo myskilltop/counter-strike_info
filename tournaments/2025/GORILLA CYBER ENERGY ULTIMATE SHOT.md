@@ -5,6 +5,10 @@
 
 ---
 
+## Регистрация доступна в боте: https://t.me/gorilla_cyber_energy_bot после ввода /start
+
+---
+
 ## 📅 Расписание турнира
 
 - **Начало регистрации:** 3 декабря - 18:00 (GMT +5)
@@ -89,6 +93,10 @@
 
 🔥 **Prize pool — 2,000,000 KZT (~$3,840)**
 A series of open qualifiers, an online stage, and a final LAN match in Almaty. The tournament is only for teams from Central Asian countries and aims to crown the strongest roster in formats from BO1 to BO3.
+
+---
+
+## Registration available at: https://t.me/gorilla_cyber_energy_bot after sending /start
 
 ---
 
