@@ -12,7 +12,7 @@
 ## 📅 Расписание турнира
 
 - **Начало регистрации:** 3 декабря - 18:00 (GMT +5)
-- **Окончание регистрации:** 9 декабря - 18:00 (GMT +5)
+- **Окончание регистрации:** 9 декабря - 21:00 (GMT +5)
 - **Даты проведения:** 10–27 декабря
 - **Открытые квалификации:** 10–16 декабря
 - **Online MAIN event:** 17–18 декабря
@@ -103,7 +103,7 @@ A series of open qualifiers, an online stage, and a final LAN match in Almaty. T
 ## 📅 Schedule
 
 - **Registration opens:** December 3 - 18:00 (GMT +5)
-- **Registration closes:** December 9 - 18:00 (GMT +5)
+- **Registration closes:** December 9 - 21:00 (GMT +5)
 - **Event dates:** December 10–27
 - **Open Qualifiers:** December 10–16
 - **Online MAIN event:** December 17–18
