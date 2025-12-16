@@ -11,7 +11,7 @@
 
 1. The Continental non-VRS
 2. Goodgame club non-VRS
-3. WinnersEcports non-VRS
+3. Winners Esports non-VRS
 4. Yoru Esports non-VRS
 5. Penguinss non-VRS
 6. Altay Esports non-VRS
@@ -41,7 +41,7 @@ Seeding type: Determined based on the latest **Valve Regional Standings** availa
 
 1. The Continental non-VRS
 2. Goodgame club non-VRS
-3. WinnersEcports non-VRS
+3. Winners Esports non-VRS
 4. Yoru Esports non-VRS
 5. Penguinss non-VRS
 6. Altay Esports non-VRS
