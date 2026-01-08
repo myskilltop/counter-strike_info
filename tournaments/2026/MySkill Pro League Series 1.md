@@ -20,7 +20,7 @@
 💸 **Турнир проводится по организационным взносам (платное участие).**
 
 * **Взнос:** **$1000** за команду
-* **Оплата:** только через Telegram **@x39ma**
+* **Оплата:** только через Telegram **@myskill_livebot**
 * **Срок оплаты:** **24 часа** с момента подачи заявки (иначе заявка аннулируется)
 * **Слот подтверждается только после оплаты** и подтверждения от организатора
 
@@ -142,7 +142,7 @@
 💸 **This tournament is funded via participation fees (paid entry).**
 
 * **Entry fee:** **$1000** per team
-* **Payment:** via Telegram **@x39ma** only
+* **Payment:** via Telegram **@myskill_livebot** only
 * **Payment deadline:** **24 hours** after submitting the application (otherwise the slot is cancelled)
 * A slot is confirmed **only after payment** and organizer confirmation
 
