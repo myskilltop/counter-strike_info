@@ -47,6 +47,8 @@
 * **Количество участников:** **8 команд**
 * **Локация:** Казахстан, **г. Алматы**
 * **Visa region:** **Kazakhstan (KZ)**
+* **Travel Support:** **не предоставляется**
+* **Проживание / визовая поддержка:** **не предоставляются** (организатор не оформляет визы, приглашения и не оказывает сопровождение по визовым вопросам)
 
 ---
 
@@ -99,6 +101,8 @@
 **MySkill**
 
 📄 **Регламент турнира + Additional Information (с историей версий):** **[ТУТ](https://github.com/myskilltop/counter-strike_info/tree/main/rules/general)**
+
+* **Поддержка / Support:** **https://t.me/myskill_livebot**
 
 ---
 
@@ -169,6 +173,8 @@
 * **Teams:** **8**
 * **Location:** Kazakhstan, **Almaty**
 * **Visa region:** **Kazakhstan (KZ)**
+* **Travel Support:** **not provided**
+* **Accommodation / visa support:** **not provided (the organizer does not provide visa assistance, invitations, or visa-related support)**
 
 ---
 
@@ -221,6 +227,8 @@
 **MySkill**
 
 📄 **Rulebook:** **[HERE](https://github.com/myskilltop/counter-strike_info/tree/main/rules/general)**
+
+* **Support** **https://t.me/myskill_livebot**
 
 ---
 
