@@ -42,7 +42,7 @@ Matches use the current Active Duty map pool:
 - Nuke
 - Dust2
 - Ancient
-- Train
+- Anubis
 
 **Online tournaments**
 
