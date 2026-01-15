@@ -363,7 +363,11 @@ Prize money is paid via bank transfer or another method specified by the tournam
 
 ## 9.5. Declining to participate
 
-Teams that leave the tournament between stages (including qualifiers and the main event) or after accepting an invitation forfeit all prize money earned and receive a ban from the next event of the same level. They may also be fined to cover replacement costs (travel for the replacement team and other expenses). If Myskill cannot find a replacement, the team’s scheduled matches are voided. Fines may be waived in emergencies such as medical issues or visa problems, provided the team supplies appropriate documentation.
+Participants are considered to have withdrawn from the tournament if they leave between two stages of the tournament, including the qualifying stage (e.g., qualifying and main stages), or if they leave the tournament after accepting an invitation. In such cases, participants lose all prize money accumulated for the tournament and may be punished with a ban from participating in MySkill Tournament Operator tournaments for a period of 1 year at the discretion of the Tournament Operator. The team that withdrew from the tournament will also be fined to cover the replacement costs (including, but not limited to, the replacement team's flight costs and any additional expenses). If Myskill is unable to find a replacement, the matches originally assigned to the team will be canceled.
+
+In addition, in exceptional cases, the tournament administration will waive penalties in the event of urgent medical care or visa issues. In the event of urgent medical care, the team must provide a letter from a licensed physician clearly stating that the participant is unable to attend the event. In the event of visa issues, the team must provide official
+
+In the case of visa issues, the team must provide official documentation confirming that the visa was denied for reasons beyond the participant's control (e.g., not due to an incorrectly submitted or incomplete application).
 
 ## 9.6. Leaving the event during playoffs
 
