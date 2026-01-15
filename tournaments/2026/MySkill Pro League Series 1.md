@@ -10,7 +10,8 @@
 
 * **Старт регистрации:** **15 января**
 * **Слотинг:** **first-come-first-served** (кто раньше зарегистрировался и подтвердил участие — тот занимает слот)
-* **Ссылка на регистрацию:** будет опубликована **в момент открытия регистрации**
+* **Ссылка на регистрацию:** **[ТУТ](https://forms.gle/fKnX2NosDrzdt2B69)**
+* **Ссылка на список регистраций:** **[ТУТ](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNcfM7GYeMv9Mf7LzgA-ecGbH8EcCmOE4TSS7_GCNWiyeRExEtgPhkwcwDESN_7Hu7m2AGN9QJTiET/pubhtml?gid=377893785&single=true)**
 * **Прозрачность FCFS:** ссылка на **публичную таблицу с таймстампами заявок** будет доступна **при открытии регистрации**
 
 ---
@@ -49,6 +50,7 @@
 * **Visa region:** **Kazakhstan (KZ)**
 * **Travel Support:** **не предоставляется**
 * **Проживание / визовая поддержка:** **не предоставляются** (организатор не оформляет визы, приглашения и не оказывает сопровождение по визовым вопросам)
+* **Ссылка на расписание:** **[ТУТ](https://docs.google.com/spreadsheets/d/1jKkbV3wGpjE3JNNd4PQwd0-WINdymlT_LNKuPsx_frE/edit?gid=959948368#gid=959948368)**
 
 ---
 
@@ -137,7 +139,8 @@
 
 * **Registration opens:** **January 15**
 * **Slotting:** **first-come-first-served** (earliest valid registration + confirmed participation gets the slot)
-* **Registration link:** will be published **at the moment registration opens**
+* **Registration link:** **[HERE](https://forms.gle/fKnX2NosDrzdt2B69)**
+* **Public registration list link:** **[HERE](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNcfM7GYeMv9Mf7LzgA-ecGbH8EcCmOE4TSS7_GCNWiyeRExEtgPhkwcwDESN_7Hu7m2AGN9QJTiET/pubhtml?gid=377893785&single=true)**
 * **FCFS transparency:** a **public timestamp sheet** link will be available **when registration opens**
 
 ---
@@ -176,6 +179,7 @@
 * **Visa region:** **Kazakhstan (KZ)**
 * **Travel Support:** **not provided**
 * **Accommodation / visa support:** **not provided (the organizer does not provide visa assistance, invitations, or visa-related support)**
+* **SChedule link:** **[HERE](https://docs.google.com/spreadsheets/d/1jKkbV3wGpjE3JNNd4PQwd0-WINdymlT_LNKuPsx_frE/edit?gid=959948368#gid=959948368)**
 
 ---
 
