@@ -179,7 +179,7 @@
 * **Visa region:** **Kazakhstan (KZ)**
 * **Travel Support:** **not provided**
 * **Accommodation / visa support:** **not provided (the organizer does not provide visa assistance, invitations, or visa-related support)**
-* **SChedule link:** **[HERE](https://docs.google.com/spreadsheets/d/1jKkbV3wGpjE3JNNd4PQwd0-WINdymlT_LNKuPsx_frE/edit?gid=959948368#gid=959948368)**
+* **Schedule link:** **[HERE](https://docs.google.com/spreadsheets/d/1jKkbV3wGpjE3JNNd4PQwd0-WINdymlT_LNKuPsx_frE/edit?gid=959948368#gid=959948368)**
 
 ---
 
