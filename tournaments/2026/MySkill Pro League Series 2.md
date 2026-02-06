@@ -1,9 +1,10 @@
-MPL Series 1 (Ranked • LAN • Алматы)
-🔥 Призовой фонд — до 10 000 000 KZT (~ $20 000)
-MPL Series 1 — Ranked LAN-турнир в Алматы.
-⚠️ Турнир проводится по системе открытой регистрации — квалификаций и инвайтов не будет.
-📝 Регистрация (First-come-first-served)
-Старт регистрации: 6 февраля
+# MPL Series 2 (Ranked • LAN • Алматы)
+🔥 **Призовой фонд — до 10 000 000 KZT (~ $20 000)**
+**MPL Series 2 — Ranked LAN-турнир в Алматы.**
+⚠️ Турнир проводится по системе **открытой регистрации** —** квалификаций и инвайтов не будет.**
+## 📝 Регистрация (First-come-first-served)
+
+* **Старт регистрации**: **6 февраля**
  * 18:00 (GMT+5) Алматы
  * 16:00 (GMT+3) Москва
  * 14:00 (CET) Европа
@@ -32,7 +33,7 @@ MPL Series 1 — Ranked LAN-турнир в Алматы.
  * Плей-офф: Double Elimination Bracket.
  * Расписание: **[ТУТ](https://docs.google.com/spreadsheets/d/1G4s-TA7yLSJHJE84s7SsznUFVBFEJo5IeKuhhIE-AxQ/edit?usp=sharing)**
  * Призовой фонд (4 000 000 KZT):
-   * 1 место — $4 000 | 2 место — $2 000 | 3 место — $1 500 | 4 место — $500
+   * 1 место — 2 000 000 KZT ($4000) | 2 место — 1 000 000 ($2 000) | 3 место — 750 0000 KZT ($1 500) | 4 место — 250 000 KZT ($500)
 
 🟡 При 12 командах (24–27 февраля)
  * Групповой этап: Round Robin — 2 группы по 6 команд. Топ-4 выходят дальше.
@@ -40,34 +41,40 @@ MPL Series 1 — Ranked LAN-турнир в Алматы.
  * Плей-офф: Single Elimination (включая матч за 3-е место).
  * Расписание: **[ТУТ](https://docs.google.com/spreadsheets/d/1_gcaeLCUcfzpAC8PPYbALQjzKp--V3FCBk8h_v4n4hQ/edit?gid=632243752#gid=632243752)**
  * Призовой фонд (7 000 000 KZT):
-   * 1 место — $7 000 | 2 место — $5 000 | 3 место — $2 000
+   * 1 место — 3 500 000 KZT ($7 000) | 2 место — 2 500 000 KZT ($5 000) | 3 место — 1 0000 000 KZT ($2 000)
 
 🔴 При 16 командах (24–27 февраля)
  * Групповой этап: Round Robin — 4 группы по 4 команды. Топ-2 выходят в плей-офф.
  * Плей-офф: Single Elimination (включая матч за 3-е место)
  * Расписание: **[ТУТ](https://docs.google.com/spreadsheets/d/1a9kBoa4YgyuYJIXxHdNMWMwYSQ0LL44qxPNJZF5B7cE/edit?gid=1371580041#gid=1371580041)**  
  * Призовой фонд (10 000 000 KZT):
-   * 1 место — $12 000 | 2 место — $5 000 | 3 место — $3 000
+   * 1 место — 6 000 000 KZT ($12 000) | 2 место — 2 5000 000 KZT ($5 000) | 3 место — 1 5000 000 KZT ($3 000)
 
-🧭 VRS / Ranked (Valve Regional Standings)
+## 🧭 VRS / Ranked (Valve Regional Standings)
  * Статус турнира: Ranked
  * VRS Date: Февраль 2025
  * https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/live/2026/standings_global_2026_02_02.md
  * Посев: Составы без VRS-рейтинга не будут сеяны выше команд с рейтингом.
-🖥️ Игровые ПК и оборудование
+   
+## 🖥️ Игровые ПК и оборудование
  * Монитор: Dell Alienware 500Hz (на кронштейне)
  * GPU: Gigabyte RTX 5070 | CPU: AMD Ryzen 7 7800X3D
  * RAM: DDR5 32GB 5200MHz
  * Периферия: Logitech G Pro X Superlight 2, АРЕНА DPA-HS-1, АРЕНА DP-KD1-0101, Steelseries QCK Heavy (L).
  * Мебель: Столы (H 75 / W 110 / D 70, без регулировки), кресла Anda Seat Phantom 3.
-🏢 Организатор
-MySkill
-📄 Регламент и подробности: [ССЫЛКА ТУТ]
+
+## 🏢 Организатор - MySkill
+
+
+## 📄 Регламент и подробности: [ССЫЛКА ТУТ]
 Поддержка: @myskill_livebot
 
-MPL Series 1 (Ranked • LAN • Almaty)
-🔥 Prize pool — up to 10,000,000 KZT (~$20,000)
-MPL Series 1 — Ranked LAN tournament in Almaty.
+
+--- 
+
+# MPL Series 2 (Ranked • LAN • Almaty)
+🔥 **Prize pool — up to 10,000,000 KZT (~$20,000)**
+MPL Series 2 — Ranked LAN tournament in Almaty.
 ⚠️ The tournament is held with open registration — there will be no qualifiers or invites.
 📝 Registration (First-come-first-served)
 Registration opens: February 6th
@@ -100,21 +107,21 @@ Slotting: FCFS (early bird winner). Up to 16 slots available.
 The tournament system and prize pool will be adapted to the final number of participants:
 
 🟢 With 8 teams (February 24–26)
-* Group stage: Round Robin — 2 groups of 4 teams. The top 2 teams advance to the playoffs.
-* Playoffs: Double Elimination Bracket.
+* Group stage: Round Robin — 2 groups of 4 teams. Bo1 The top 2 teams advance to the playoffs.
+* Playoffs: Double Elimination Bracket. Bo3 Grand Final Bo5
 * Prize pool (4,000,000 KZT):
 * 1st place — $4,000 | 2nd place — $2,000 | 3rd place — $1,500 | 4th place — $500
 
 🟡 With 12 teams (February 24–27)
-* Group stage: Round Robin — 2 groups of 6 teams. The top 4 teams advance.
-* Play-in: The 4th and 5th places in each group play a play-off match for a playoff slot.
-* Playoffs: Single Elimination (including a match for 3rd place).
+* Group stage: Round Robin — 2 groups of 6 teams. Bo1 The top 4 teams advance.
+* Play-in: The 4th and 5th places in each group play a play-off match for a playoff slot. Bo3
+* Playoffs: Single Elimination (including a match for 3rd place). Bo3
 * Prize pool (7,000,000 KZT):
 * 1st place — $7,000 | 2nd place — $5,000 | 3rd place — $2,000
 
 🔴 With 16 teams (February 24–27)
-* Group stage: Round Robin — 4 groups of 4 teams. The top 2 teams advance to the playoffs.
-* Playoffs: Single Elimination (including a match for 3rd place).
+* Group stage: Round Robin — 4 groups of 4 teams. Bo1 The top 2 teams advance to the playoffs.
+* Playoffs: Single Elimination (including a match for 3rd place). Bo3
 * Prize pool (10,000,000 KZT):
 * 1st place — $12,000 | 2nd place — $5,000 | 3rd place — $3,000
 
@@ -122,13 +129,15 @@ The tournament system and prize pool will be adapted to the final number of part
 * Tournament Status: Ranked
 * VRS Date: February 2025
 * Seeding: Teams without a VRS rating will not be seeded above ranked teams.
+* 
 🖥️ Gaming PCs and Hardware
 * Monitor: Dell Alienware 500Hz (on bracket)
 * GPU: Gigabyte RTX 5070 | CPU: AMD Ryzen 7 7800X3D
 * RAM: DDR5 32GB 5200MHz
 * Peripherals: Logitech G Pro X Superlight 2, ARENA DPA-HS-1, ARENA DP-KD1-0101, Steelseries QCK Heavy (L).
 * Furniture: Tables (H 75 / W 110 / D 70, non-adjustable), Anda Seat Phantom 3 chairs.
-🏢 Organizer
-MySkill
+
+🏢 Organizer  **MySkill**
+
 📄 Rules and details: [LINK HERE]
 Support: @myskill_livebot
