@@ -84,8 +84,8 @@ Registration opens: February 6th
 Registration closes: February 13th
 Slotting: FCFS (early bird winner). Up to 16 slots available.
 
-* Registration link: HERE
-* Registration list link: HERE
+* Registration link: **[HERE](https://forms.gle/4LX1AcRUifCR8M1L6)**
+* Registration list link: **[HERE](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXFAk_ujfn-04iQNsv3b3WwYkhzgO9t_pfI6JyElG8pYZXJTan6b0RuOWNTbMfs5FApOO2wfA_SsOP/pubhtml?gid=2095472&single=true)**
 
 💳 Registration fee (required)
 💸 The tournament is based on registration fees.
@@ -109,25 +109,29 @@ The tournament system and prize pool will be adapted to the final number of part
 🟢 With 8 teams (February 24–26)
 * Group stage: Round Robin — 2 groups of 4 teams. Bo1 The top 2 teams advance to the playoffs.
 * Playoffs: Double Elimination Bracket. Bo3 Grand Final Bo5
+* * Schedule: **[HERE](https://docs.google.com/spreadsheets/d/1G4s-TA7yLSJHJE84s7SsznUFVBFEJo5IeKuhhIE-AxQ/edit?usp=sharing)**
 * Prize pool (4,000,000 KZT):
-* 1st place — $4,000 | 2nd place — $2,000 | 3rd place — $1,500 | 4th place — $500
+* 1st place — 2 000 000 KZT ($4000) | 2nd place — 1 000 000 ($2 000) | 3rd place — 750 0000 KZT ($1 500) | 4th place — 250 000 KZT ($500) 
 
 🟡 With 12 teams (February 24–27)
 * Group stage: Round Robin — 2 groups of 6 teams. Bo1 The top 4 teams advance.
 * Play-in: The 4th and 5th places in each group play a play-off match for a playoff slot. Bo3
 * Playoffs: Single Elimination (including a match for 3rd place). Bo3
+* Schedule: **[HERE](https://docs.google.com/spreadsheets/d/1_gcaeLCUcfzpAC8PPYbALQjzKp--V3FCBk8h_v4n4hQ/edit?gid=632243752#gid=632243752)**
 * Prize pool (7,000,000 KZT):
-* 1st place — $7,000 | 2nd place — $5,000 | 3rd place — $2,000
+* 1st place — 3 500 000 KZT ($7 000) | 2nd place — 2 500 000 KZT ($5 000) | 3rd place — 1 0000 000 KZT ($2 000)
 
 🔴 With 16 teams (February 24–27)
 * Group stage: Round Robin — 4 groups of 4 teams. Bo1 The top 2 teams advance to the playoffs.
 * Playoffs: Single Elimination (including a match for 3rd place). Bo3
+* Schedule: **[HERE](https://docs.google.com/spreadsheets/d/1a9kBoa4YgyuYJIXxHdNMWMwYSQ0LL44qxPNJZF5B7cE/edit?gid=1371580041#gid=1371580041)**
 * Prize pool (10,000,000 KZT):
-* 1st place — $12,000 | 2nd place — $5,000 | 3rd place — $3,000
+* 1st place — 6 000 000 KZT ($12 000) | 2nd place — 2 5000 000 KZT ($5 000) | 3rd place — 1 5000 000 KZT ($3 000) 
 
 🧭 VRS / Ranked (Valve Regional Standings)
 * Tournament Status: Ranked
 * VRS Date: February 2025
+* https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/live/2026/standings_global_2026_02_02.md
 * Seeding: Teams without a VRS rating will not be seeded above ranked teams.
 * 
 🖥️ Gaming PCs and Hardware
