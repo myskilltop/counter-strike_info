@@ -29,26 +29,26 @@
 Система турнира и призовые будут адаптированы под итоговое количество участников:
 
 🟢 При 8 командах (24–26 февраля)
- * Групповой этап: Round Robin — 2 группы по 4 команды. Топ-2 выходят в плей-офф.
- * Плей-офф: Double Elimination Bracket.
+ * Групповой этап: Round Robin — 2 группы по 4 команды. Bo1 Топ-2 выходят в плей-офф.
+ * Плей-офф: Double Elimination Bracket. Bo3
  * Расписание: **[ТУТ](https://docs.google.com/spreadsheets/d/1G4s-TA7yLSJHJE84s7SsznUFVBFEJo5IeKuhhIE-AxQ/edit?usp=sharing)**
- * Призовой фонд (4 000 000 KZT):
+ * Призовой фонд 4 000 000 KZT ($8 000):
    * 1 место — 2 000 000 KZT ($4000) | 2 место — 1 000 000 ($2 000) | 3 место — 750 0000 KZT ($1 500) | 4 место — 250 000 KZT ($500)
 
 🟡 При 12 командах (24–27 февраля)
- * Групповой этап: Round Robin — 2 группы по 6 команд. Топ-4 выходят дальше.
- * Play-in: 4-е и 5-е места групп играют стыковой матч за слот в плей-офф.
- * Плей-офф: Single Elimination (включая матч за 3-е место).
+ * Групповой этап: Round Robin — 2 группы по 6 команд. Bo1 Топ-4 выходят дальше.
+ * Play-in: Bo3 4-е и 5-е места групп играют стыковой матч за слот в плей-офф.
+ * Плей-офф: Single Elimination Bo3 (включая матч за 3-е место Bo3).
  * Расписание: **[ТУТ](https://docs.google.com/spreadsheets/d/1_gcaeLCUcfzpAC8PPYbALQjzKp--V3FCBk8h_v4n4hQ/edit?gid=632243752#gid=632243752)**
- * Призовой фонд (7 000 000 KZT):
-   * 1 место — 3 500 000 KZT ($7 000) | 2 место — 2 500 000 KZT ($5 000) | 3 место — 1 0000 000 KZT ($2 000)
+ * Призовой фонд 7 000 000 KZT ($14 000):
+   * 1 место — 3 500 000 KZT ($7 000) | 2 место — 2 500 000 KZT ($5 000) | 3 место — 1 000 000 KZT ($2 000)
 
 🔴 При 16 командах (24–27 февраля)
- * Групповой этап: Round Robin — 4 группы по 4 команды. Топ-2 выходят в плей-офф.
- * Плей-офф: Single Elimination (включая матч за 3-е место)
+ * Групповой этап: Round Robin — 4 группы по 4 команды. Bo1 Топ-2 выходят в плей-офф.
+ * Плей-офф: Single Elimination Bo3 (включая матч за 3-е место Bo3)
  * Расписание: **[ТУТ](https://docs.google.com/spreadsheets/d/1a9kBoa4YgyuYJIXxHdNMWMwYSQ0LL44qxPNJZF5B7cE/edit?gid=1371580041#gid=1371580041)**  
- * Призовой фонд (10 000 000 KZT):
-   * 1 место — 6 000 000 KZT ($12 000) | 2 место — 2 5000 000 KZT ($5 000) | 3 место — 1 5000 000 KZT ($3 000)
+ * Призовой фонд 10 000 000 KZT ($20 000):
+   * 1 место — 6 000 000 KZT ($12 000) | 2 место — 2 5000 000 KZT ($5 000) | 3 место — 1 500 000 KZT ($3 000)
 
 ## 🧭 VRS / Ranked (Valve Regional Standings)
  * Статус турнира: Ranked
@@ -110,22 +110,22 @@ The tournament system and prize pool will be adapted to the final number of part
 * Group stage: Round Robin — 2 groups of 4 teams. Bo1 The top 2 teams advance to the playoffs.
 * Playoffs: Double Elimination Bracket. Bo3 Grand Final Bo5
 * * Schedule: **[HERE](https://docs.google.com/spreadsheets/d/1G4s-TA7yLSJHJE84s7SsznUFVBFEJo5IeKuhhIE-AxQ/edit?usp=sharing)**
-* Prize pool (4,000,000 KZT):
+* Prize pool 4 000 000 KZT ($8 000):
 * 1st place — 2 000 000 KZT ($4000) | 2nd place — 1 000 000 ($2 000) | 3rd place — 750 0000 KZT ($1 500) | 4th place — 250 000 KZT ($500) 
 
 🟡 With 12 teams (February 24–27)
 * Group stage: Round Robin — 2 groups of 6 teams. Bo1 The top 4 teams advance.
 * Play-in: The 4th and 5th places in each group play a play-off match for a playoff slot. Bo3
-* Playoffs: Single Elimination (including a match for 3rd place). Bo3
+* Playoffs: Single Elimination Bo3 (including a match for 3rd place). Bo3
 * Schedule: **[HERE](https://docs.google.com/spreadsheets/d/1_gcaeLCUcfzpAC8PPYbALQjzKp--V3FCBk8h_v4n4hQ/edit?gid=632243752#gid=632243752)**
-* Prize pool (7,000,000 KZT):
+* Prize pool 7 000 000 KZT ($14 000):
 * 1st place — 3 500 000 KZT ($7 000) | 2nd place — 2 500 000 KZT ($5 000) | 3rd place — 1 0000 000 KZT ($2 000)
 
 🔴 With 16 teams (February 24–27)
 * Group stage: Round Robin — 4 groups of 4 teams. Bo1 The top 2 teams advance to the playoffs.
-* Playoffs: Single Elimination (including a match for 3rd place). Bo3
+* Playoffs: Single Elimination Bo3 (including a match for 3rd place). Bo3
 * Schedule: **[HERE](https://docs.google.com/spreadsheets/d/1a9kBoa4YgyuYJIXxHdNMWMwYSQ0LL44qxPNJZF5B7cE/edit?gid=1371580041#gid=1371580041)**
-* Prize pool (10,000,000 KZT):
+* Prize pool 10 000 000 KZT ($20 000):
 * 1st place — 6 000 000 KZT ($12 000) | 2nd place — 2 5000 000 KZT ($5 000) | 3rd place — 1 5000 000 KZT ($3 000) 
 
 🧭 VRS / Ranked (Valve Regional Standings)
