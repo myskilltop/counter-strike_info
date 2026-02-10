@@ -42,6 +42,8 @@
  * Расписание: **[ТУТ](https://docs.google.com/spreadsheets/d/1_gcaeLCUcfzpAC8PPYbALQjzKp--V3FCBk8h_v4n4hQ/edit?gid=632243752#gid=632243752)**
  * Призовой фонд 7 000 000 KZT ($14 000):
    * 1 место — 3 500 000 KZT ($7 000) | 2 место — 2 500 000 KZT ($5 000) | 3 место — 1 000 000 KZT ($2 000)
+ * Призовой фонд При наборе другого количества команд
+ * 11/13/14 команд $8,500 (4 250 000 KZT)/$15,500 (7 750 000 KZT)/$17,000 (8 500 000 KZT)
 
 🔴 При 15-16 командах (24–27 февраля)
  * Групповой этап: Round Robin — 4 группы по 3-4 команды. Bo1 Топ-2 выходят в плей-офф.
@@ -49,8 +51,9 @@
  * Расписание: **[ТУТ](https://docs.google.com/spreadsheets/d/1a9kBoa4YgyuYJIXxHdNMWMwYSQ0LL44qxPNJZF5B7cE/edit?gid=1371580041#gid=1371580041)**  
  * Призовой фонд 10 000 000 KZT ($20 000):
    * 1 место — 6 000 000 KZT ($12 000) | 2 место — 2 5000 000 KZT ($5 000) | 3 место — 1 500 000 KZT ($3 000)
+ * Призовой фонд При наборе другого количества команд
+ * 15 команд $18,500 (9 250 000 KZT)
 
-* При наборе другого количества команд
 ⚪️ Призовой фонд:
 * 11/13/14/15 команд — $8,500 (4 250 000 KZT)/$15,500 (7 750 000 KZT)/$17,000 (8 500 000 KZT)/$18,500 (9 250 000 KZT)
 
@@ -129,6 +132,8 @@ The tournament system and prize pool will be adapted to the final number of part
 * Schedule: **[HERE](https://docs.google.com/spreadsheets/d/1_gcaeLCUcfzpAC8PPYbALQjzKp--V3FCBk8h_v4n4hQ/edit?gid=632243752#gid=632243752)**
 * Prize pool 7 000 000 KZT ($14 000):
 * 1st place — 3 500 000 KZT ($7 000) | 2nd place — 2 500 000 KZT ($5 000) | 3rd place — 1 0000 000 KZT ($2 000)
+* Prize Pool If a different number of teams is registered 
+* 11 / 13 / 14  teams $8,500 (4,250,000 KZT) / $15,500 (7,750,000 KZT) / $17,000 (8,500,000 KZT) 
 
 🔴 With 15-16 teams (February 24–27)
 * Group stage: Round Robin — 4 groups of 3-4 teams. Bo1 The top 2 teams advance to the playoffs.
@@ -136,8 +141,8 @@ The tournament system and prize pool will be adapted to the final number of part
 * Schedule: **[HERE](https://docs.google.com/spreadsheets/d/1a9kBoa4YgyuYJIXxHdNMWMwYSQ0LL44qxPNJZF5B7cE/edit?gid=1371580041#gid=1371580041)**
 * Prize pool 10 000 000 KZT ($20 000):
 * 1st place — 6 000 000 KZT ($12 000) | 2nd place — 2 5000 000 KZT ($5 000) | 3rd place — 1 5000 000 KZT ($3 000) 
-
-* If a different number of teams is registered
+* Prize Pool If a different number of teams is registered 
+* 15 teams $18,500 (9,250,000 KZT)
 
 ⚪️ Prize Pool:
 * 11 / 13 / 14 / 15 teams — $8,500 (4,250,000 KZT) / $15,500 (7,750,000 KZT) / $17,000 (8,500,000 KZT) / $18,500 (9,250,000 KZT)
