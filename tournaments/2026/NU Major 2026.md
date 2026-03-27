@@ -4,7 +4,12 @@
 
 🔥 **Призовой фонд — 1 000 000 тенге**
 **NU Major 2026** — турнир для студентов **Nazarbayev University** с форматом **Double Elimination** и **LAN Finals** в стенах университета.
-⚠️ **К участию допускаются только действующие студенты Nazarbayev University (бакалавриат и магистратура).**
+
+---
+
+# ⚠️ ВАЖНО: К УЧАСТИЮ ДОПУСКАЮТСЯ ТОЛЬКО ДЕЙСТВУЮЩИЕ СТУДЕНТЫ NAZARBAYEV UNIVERSITY
+
+**Только бакалавриат и магистратура Nazarbayev University.**
 
 ---
 
@@ -13,6 +18,7 @@
 * **Регистрация откроется:** **30 марта в 19:00 (GMT+5)**
 * **Окончание регистрации:** **9 апреля, 23:59 (GMT+5)**
 * **Ссылка на регистрацию:** **[ЗДЕСЬ](https://docs.google.com/forms/d/e/1FAIpQLSdgf9nSBgXHBHoHrbAdLoPg_mcpOhy0b6E8L0hq_B2dqszw3w/viewform?usp=dialog)**
+* **Важно:** **регистрироваться могут только действующие студенты Nazarbayev University (бакалавриат и магистратура)**
 * **Принцип отбора:** **first-come-first-served** (в порядке очереди подачи заявок)
 * **Прозрачность регистрации:** временные метки поданных заявок будут опубликованы в этом посте после открытия регистрации
 * **Количество участников:** **16 команд**
@@ -79,7 +85,12 @@
 
 🔥 **Prize Pool — 1,000,000 KZT**
 **NU Major 2026** is a **Nazarbayev University student tournament** featuring a **Double Elimination** format and **LAN Finals** held at the university.
-⚠️ **Only current Nazarbayev University students (Bachelor's and Master's programs) are eligible to participate.**
+
+---
+
+# ⚠️ IMPORTANT: ONLY CURRENT NAZARBAYEV UNIVERSITY STUDENTS ARE ELIGIBLE
+
+**Bachelor's and Master's students only.**
 
 ---
 
@@ -88,6 +99,7 @@
 * **Registration opens:** **March 30 at 7:00 PM (GMT+5)**
 * **Registration closes:** **April 9, 11:59 PM (GMT+5)**
 * **Registration link:** **[HERE](https://docs.google.com/forms/d/e/1FAIpQLSdgf9nSBgXHBHoHrbAdLoPg_mcpOhy0b6E8L0hq_B2dqszw3w/viewform?usp=dialog)**
+* **Important:** **only current Nazarbayev University students (Bachelor's and Master's programs) may register**
 * **Selection principle:** **first-come-first-served**
 * **Transparency:** application timestamps will be published in this post after registration opens
 * **Participants:** **16 teams**
