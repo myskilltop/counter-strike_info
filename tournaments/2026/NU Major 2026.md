@@ -12,7 +12,7 @@
 
 * **Регистрация откроется:** **30 марта в 19:00 (GMT+5)**
 * **Окончание регистрации:** **9 апреля, 23:59 (GMT+5)**
-* **Ссылка на регистрацию:** **[ЗДЕСЬ](#)**
+* **Ссылка на регистрацию:** **[ЗДЕСЬ](https://docs.google.com/forms/d/e/1FAIpQLSdgf9nSBgXHBHoHrbAdLoPg_mcpOhy0b6E8L0hq_B2dqszw3w/viewform?usp=dialog)**
 * **Принцип отбора:** **first-come-first-served** (в порядке очереди подачи заявок)
 * **Прозрачность регистрации:** временные метки поданных заявок будут опубликованы в этом посте после открытия регистрации
 * **Количество участников:** **16 команд**
@@ -87,7 +87,7 @@
 
 * **Registration opens:** **March 30 at 7:00 PM (GMT+5)**
 * **Registration closes:** **April 9, 11:59 PM (GMT+5)**
-* **Registration link:** **[HERE](#)**
+* **Registration link:** **[HERE](https://docs.google.com/forms/d/e/1FAIpQLSdgf9nSBgXHBHoHrbAdLoPg_mcpOhy0b6E8L0hq_B2dqszw3w/viewform?usp=dialog)**
 * **Selection principle:** **first-come-first-served**
 * **Transparency:** application timestamps will be published in this post after registration opens
 * **Participants:** **16 teams**
