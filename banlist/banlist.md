@@ -18,9 +18,6 @@ MySkill reserves the right to refuse participation to players who hold active ba
 - **Reppster (Maksim Kalinin, RU)** — Match-fixing / banned from participating in PGL events for one year — 2026-03-29 → 2027-03-29 — SteamID: `76561198349133663`
 - **wooooooooooop (Aktan Kozhomuratov, KG)** — Match-fixing / banned from participating in PGL events for one year — 2026-03-29 → 2027-03-29 — SteamID: `76561198993969566`
 
-### Disqualification
-- **Soltero (Mirel Zhusupov, KG)** — Disqualified from the qualifier due to violations of the tournament's competitive integrity rules — SteamID: `76561198075809193`
-
 ## European Pro League Series 3 (2025‑11‑21)
 [Source](https://www.hltv.org/news/43218/short-news-week-47#20)
 
@@ -154,9 +151,6 @@ Myskill оставляет за собой право отказать в уча
 - **Akyl1337 (Akylbek Koibagarov, KG)** — Матч-фиксинг / запрет на участие в турнирах PGL сроком на один год — 2026-03-29 → 2027-03-29 — SteamID: `76561199845716639`
 - **Reppster (Maksim Kalinin, RU)** — Матч-фиксинг / запрет на участие в турнирах PGL сроком на один год — 2026-03-29 → 2027-03-29 — SteamID: `76561198349133663`
 - **wooooooooooop (Aktan Kozhomuratov, KG)** — Матч-фиксинг / запрет на участие в турнирах PGL сроком на один год — 2026-03-29 → 2027-03-29 — SteamID: `76561198993969566`
-
-### Дисквалификация
-- **Soltero (Mirel Zhusupov, KG)** — Дисквалифицирован с квалификации за нарушение правил соревновательной честности турнира — SteamID: `76561198075809193`
 
 ## European Pro League Series 3 (2025‑11‑21)
 [Источник](https://www.hltv.org/news/43218/short-news-week-47#20)
