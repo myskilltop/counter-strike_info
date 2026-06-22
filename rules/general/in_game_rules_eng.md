@@ -36,7 +36,7 @@ The Tournament Operator may, at its discretion, designate the required anti-chea
 
 Matches use the current Active Duty map pool:
 
-- Overpass
+- Cache
 - Inferno
 - Mirage
 - Nuke
