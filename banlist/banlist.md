@@ -31,17 +31,39 @@ MySkill reserves the right to refuse participation to players who hold active ba
 - **z1zyy** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming
 - **fatkoOo-** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming
 
-## Liquipedia — Other Active Bans (2025-12-12 — 2026-07-06)
+## Liquipedia — Other Active Bans (2026-06-19 — 2026-07-06)
 [Source](https://liquipedia.net/counterstrike/Banned_Players/Other)
 
 | Player | Country | Team | Reason | Start | End | Source |
 |---|---:|---|---|---:|---:|---|
 | **XMH** | — | — | Cheating | 2026-07-06 | **Permanent** | Liquipedia |
 | **jackast** | — | — | Cheating | 2026-06-19 | 2029-09-20 | Liquipedia |
-| **ayano** (Ruslan Gutu) | RU | — | Platform Abuse | 2025-12-12 | **Permanent** | Liquipedia — [HLTV](https://www.hltv.org/player/25608/ayano) |
-| **D9D9VOLODYA** (Andrey Belozertsev) | RU | — | Platform Abuse | 2025-12-12 | **Permanent** | Liquipedia — [HLTV](https://www.hltv.org/player/25266/d9d9volodya) |
 
-> **Not included:** bans issued by the Ukrainian Esports Federation (UESF) — Qweall, byr9 and Polbandana ("Political Reasons", 2026-06-19, indeterminate) — are deliberately excluded from this banlist.
+> **Not included:** bans issued by the Ukrainian Esports Federation (UESF) — Qweall, byr9 and Polbandana ("Political Reasons", 2026-06-19, indeterminate) — are deliberately excluded from this banlist. Platform Abuse bans are likewise not mirrored into this banlist.
+
+## benched gods — GLuck Yungstar 2026 (2026-04-25)
+[Source](https://liquipedia.net/counterstrike/Banned_Players/Other) — [Event](https://liquipedia.net/counterstrike/GLuck_Yungstar/2026/Series_1/Qualifier)
+
+### Five-Year Ban (until 2031-04-26)
+> The roster was disqualified from the GLuck Yungstar 2026: Series #1 Closed Qualifier on 2026-04-25 over suspicious activity.
+
+- **K014NZ (Nikolay Glushnev, BY)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+- **Wign (RU)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+- **f1chper (RU)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+- **BloodyK (RU)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+- **MisterHy (RU)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+
+## bankaPEPSI — CCT Integrity Assessment (2026-04-10)
+[Source](https://liquipedia.net/counterstrike/Banned_Players/Other)
+
+### Eighteen-Month Ban (until 2027-10-10)
+> bankaPEPSI were disqualified on 2026-04-10 following an integrity assessment; the players are banned from all CCT events for eighteen months.
+
+- **Bogdan “xsepower” Chernikov (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT — [HLTV](https://www.hltv.org/stats/players/12733/xsepower)
+- **lesswill (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT
+- **HUckLer (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT
+- **lUMiER (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT
+- **SEMSYS (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT
 
 ## PGL Astana 2026 West Asia Closed Qualifier (2026-03-29)
 [Source](https://x.com/pglesports/status/2038324207877300705)
@@ -202,17 +224,39 @@ Myskill оставляет за собой право отказать в уча
 - **z1zyy** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming
 - **fatkoOo-** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming
 
-## Liquipedia — прочие действующие баны (2025-12-12 — 2026-07-06)
+## Liquipedia — прочие действующие баны (2026-06-19 — 2026-07-06)
 [Источник](https://liquipedia.net/counterstrike/Banned_Players/Other)
 
 | Игрок | Страна | Команда | Причина | Старт | Окончание | Источник |
 |---|---:|---|---|---:|---:|---|
 | **XMH** | — | — | Читерство | 2026-07-06 | **Пожизненно** | Liquipedia |
 | **jackast** | — | — | Читерство | 2026-06-19 | 2029-09-20 | Liquipedia |
-| **ayano** (Руслан Гуцу) | RU | — | Злоупотребление платформой | 2025-12-12 | **Пожизненно** | Liquipedia — [HLTV](https://www.hltv.org/player/25608/ayano) |
-| **D9D9VOLODYA** (Андрей Белозерцев) | RU | — | Злоупотребление платформой | 2025-12-12 | **Пожизненно** | Liquipedia — [HLTV](https://www.hltv.org/player/25266/d9d9volodya) |
 
-> **Не включены:** баны, выданные Федерацией киберспорта Украины (UESF) — Qweall, byr9 и Polbandana («Политические причины», 2026-06-19, срок не определён) — намеренно исключены из этого банлиста.
+> **Не включены:** баны, выданные Федерацией киберспорта Украины (UESF) — Qweall, byr9 и Polbandana («Политические причины», 2026-06-19, срок не определён) — намеренно исключены из этого банлиста. Баны за злоупотребление платформой (Platform Abuse) в банлист также не переносятся.
+
+## benched gods — GLuck Yungstar 2026 (2026-04-25)
+[Источник](https://liquipedia.net/counterstrike/Banned_Players/Other) — [Турнир](https://liquipedia.net/counterstrike/GLuck_Yungstar/2026/Series_1/Qualifier)
+
+### Бан на 5 лет (до 2031-04-26)
+> Состав был дисквалифицирован с GLuck Yungstar 2026: Series #1 Closed Qualifier 25.04.2026 из-за подозрительной активности.
+
+- **K014NZ (Николай Глушнев, BY)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+- **Wign (RU)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+- **f1chper (RU)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+- **BloodyK (RU)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+- **MisterHy (RU)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+
+## bankaPEPSI — оценка честности со стороны CCT (2026-04-10)
+[Источник](https://liquipedia.net/counterstrike/Banned_Players/Other)
+
+### Бан на 18 месяцев (до 2027-10-10)
+> bankaPEPSI была дисквалифицирована 10.04.2026 по итогам проверки на добросовестность; игроки отстранены от всех турниров CCT на 18 месяцев.
+
+- **Bogdan “xsepower” Chernikov (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT — [HLTV](https://www.hltv.org/stats/players/12733/xsepower)
+- **lesswill (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT
+- **HUckLer (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT
+- **lUMiER (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT
+- **SEMSYS (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT
 
 ## PGL Astana 2026 West Asia Closed Qualifier (2026-03-29)
 [Источник](https://x.com/pglesports/status/2038324207877300705)
