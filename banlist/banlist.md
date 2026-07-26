@@ -7,6 +7,64 @@ MySkill reserves the right to refuse participation to players who hold active ba
 
 ---
 
+## Subtop De France — CCT / GRID Integrity Assessment (2026-07-20)
+[Source](https://liquipedia.net/counterstrike/Banned_Players/Other) — [HLTV](https://www.hltv.org/news/45162/short-news-week-28)
+
+### Eighteen-Month Ban (until 2028-01-20)
+> Following an integrity assessment, GRID (the company behind CCT) ruled the roster "a material risk to competitive integrity". The players are ineligible for CCT events for eighteen months and their ongoing CCT 2026 Europe Series 6 matches were forfeited.
+
+- **Maxime “Revol” Desraisses (FR)** — Integrity violation — 2026-07-20 → 2028-01-20 — team: Subtop De France — source: CCT / GRID
+- **Keller “Supr3me” Hugo (FR)** — Integrity violation — 2026-07-20 → 2028-01-20 — team: Subtop De France — source: CCT / GRID
+- **Charles “XiMaa” Simon (FR)** — Integrity violation — 2026-07-20 → 2028-01-20 — team: Subtop De France — source: CCT / GRID
+- **Matthieu “Razzmo” Mellot (FR)** — Integrity violation — 2026-07-20 → 2028-01-20 — team: Subtop De France — source: CCT / GRID
+- **Akendi “sanjoCRAKITO” Mellak (FR)** — Integrity violation — 2026-07-20 → 2028-01-20 — team: Subtop De France — source: CCT / GRID
+
+## Alpha Gaming Match-Fixing Case (2026-07-16)
+[Source](https://liquipedia.net/counterstrike/Banned_Players/Other)
+
+### Permanent Ban
+- **R0Kk** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming
+- **xom** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming
+- **Edi “Edzz” Islami (XK)** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming — [HLTV](https://www.hltv.org/player/26114/edzz)
+- **pr01** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming
+- **Blend “blendy” Mjeku (XK)** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming — [HLTV](https://www.hltv.org/player/26223/blendy)
+- **z1zyy** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming
+- **fatkoOo-** — Matchfixing — 2026-07-16 → **Permanent** — team: Alpha Gaming
+
+## Liquipedia — Other Active Bans (2026-06-19 — 2026-07-06)
+[Source](https://liquipedia.net/counterstrike/Banned_Players/Other)
+
+| Player | Country | Team | Reason | Start | End | Source |
+|---|---:|---|---|---:|---:|---|
+| **XMH** | — | — | Cheating | 2026-07-06 | **Permanent** | Liquipedia |
+| **jackast** | — | — | Cheating | 2026-06-19 | 2029-09-20 | Liquipedia |
+
+> **Not included:** bans issued by the Ukrainian Esports Federation (UESF) — Qweall, byr9 and Polbandana ("Political Reasons", 2026-06-19, indeterminate) — are deliberately excluded from this banlist. Platform Abuse bans are likewise not mirrored into this banlist.
+
+## benched gods — GLuck Yungstar 2026 (2026-04-25)
+[Source](https://liquipedia.net/counterstrike/Banned_Players/Other) — [Event](https://liquipedia.net/counterstrike/GLuck_Yungstar/2026/Series_1/Qualifier)
+
+### Five-Year Ban (until 2031-04-26)
+> The roster was disqualified from the GLuck Yungstar 2026: Series #1 Closed Qualifier on 2026-04-25 over suspicious activity.
+
+- **K014NZ (Nikolay Glushnev, BY)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+- **Wign (RU)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+- **f1chper (RU)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+- **BloodyK (RU)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+- **MisterHy (RU)** — Integrity violation — 2026-04-25 → 2031-04-26 — team: benched gods
+
+## bankaPEPSI — CCT Integrity Assessment (2026-04-10)
+[Source](https://liquipedia.net/counterstrike/Banned_Players/Other)
+
+### Eighteen-Month Ban (until 2027-10-10)
+> bankaPEPSI were disqualified on 2026-04-10 following an integrity assessment; the players are banned from all CCT events for eighteen months.
+
+- **Bogdan “xsepower” Chernikov (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT — [HLTV](https://www.hltv.org/stats/players/12733/xsepower)
+- **lesswill (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT
+- **HUckLer (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT
+- **lUMiER (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT
+- **SEMSYS (RU)** — Integrity violation — 2026-04-10 → 2027-10-10 — team: bankaPEPSI — source: CCT
+
 ## PGL Astana 2026 West Asia Closed Qualifier (2026-03-29)
 [Source](https://x.com/pglesports/status/2038324207877300705)
 
@@ -130,7 +188,8 @@ https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-
 - FASTCUP / player cards.
 - FACEIT / public player pages.
 - Akros Anti-Cheat / public announcements.
-- [Liquipedia CS2 Other Banned Players](https://liquipedia.net/counterstrike/Banned_Players/Other)
+- [Liquipedia CS2 Other Banned Players](https://liquipedia.net/counterstrike/Banned_Players/Other) — last synced 2026-07-26.
+- Bans issued by the Ukrainian Esports Federation (UESF) are not mirrored into this banlist.
 
 ---
 
@@ -140,6 +199,64 @@ https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-
 Myskill оставляет за собой право отказать в участии игрокам, имеющим действующие баны от издателя игры или других киберспортивных организаций, турнирных операторов и античит систем, которые Myskill считает авторитетными. Если участник турнира получил (или получит) бан от античит-системы издателя (Valve Anti-Cheat) либо любой другой античит-системы, используемой на турнирной платформе (включая FaceIT AC, GameGuard, Akros), он подлежит дисквалификации задним числом, начиная с его первого матча.
 
 ---
+
+## Subtop De France — оценка честности со стороны CCT / GRID (2026-07-20)
+[Источник](https://liquipedia.net/counterstrike/Banned_Players/Other) — [HLTV](https://www.hltv.org/news/45162/short-news-week-28)
+
+### Бан на 18 месяцев (до 2028-01-20)
+> По итогам проверки на добросовестность компания GRID (организатор CCT) признала состав «существенным риском для соревновательной честности». Игроки не допускаются к турнирам CCT в течение 18 месяцев, их текущие матчи на CCT 2026 Europe Series 6 засчитаны как поражения.
+
+- **Maxime “Revol” Desraisses (FR)** — Нарушение соревновательной честности — 2026-07-20 → 2028-01-20 — команда: Subtop De France — источник: CCT / GRID
+- **Keller “Supr3me” Hugo (FR)** — Нарушение соревновательной честности — 2026-07-20 → 2028-01-20 — команда: Subtop De France — источник: CCT / GRID
+- **Charles “XiMaa” Simon (FR)** — Нарушение соревновательной честности — 2026-07-20 → 2028-01-20 — команда: Subtop De France — источник: CCT / GRID
+- **Matthieu “Razzmo” Mellot (FR)** — Нарушение соревновательной честности — 2026-07-20 → 2028-01-20 — команда: Subtop De France — источник: CCT / GRID
+- **Akendi “sanjoCRAKITO” Mellak (FR)** — Нарушение соревновательной честности — 2026-07-20 → 2028-01-20 — команда: Subtop De France — источник: CCT / GRID
+
+## Дело о матч-фиксинге Alpha Gaming (2026-07-16)
+[Источник](https://liquipedia.net/counterstrike/Banned_Players/Other)
+
+### Пожизненная дисквалификация
+- **R0Kk** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming
+- **xom** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming
+- **Edi “Edzz” Islami (XK)** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming — [HLTV](https://www.hltv.org/player/26114/edzz)
+- **pr01** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming
+- **Blend “blendy” Mjeku (XK)** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming — [HLTV](https://www.hltv.org/player/26223/blendy)
+- **z1zyy** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming
+- **fatkoOo-** — Матч-фиксинг — 2026-07-16 → **Пожизненно** — команда: Alpha Gaming
+
+## Liquipedia — прочие действующие баны (2026-06-19 — 2026-07-06)
+[Источник](https://liquipedia.net/counterstrike/Banned_Players/Other)
+
+| Игрок | Страна | Команда | Причина | Старт | Окончание | Источник |
+|---|---:|---|---|---:|---:|---|
+| **XMH** | — | — | Читерство | 2026-07-06 | **Пожизненно** | Liquipedia |
+| **jackast** | — | — | Читерство | 2026-06-19 | 2029-09-20 | Liquipedia |
+
+> **Не включены:** баны, выданные Федерацией киберспорта Украины (UESF) — Qweall, byr9 и Polbandana («Политические причины», 2026-06-19, срок не определён) — намеренно исключены из этого банлиста. Баны за злоупотребление платформой (Platform Abuse) в банлист также не переносятся.
+
+## benched gods — GLuck Yungstar 2026 (2026-04-25)
+[Источник](https://liquipedia.net/counterstrike/Banned_Players/Other) — [Турнир](https://liquipedia.net/counterstrike/GLuck_Yungstar/2026/Series_1/Qualifier)
+
+### Бан на 5 лет (до 2031-04-26)
+> Состав был дисквалифицирован с GLuck Yungstar 2026: Series #1 Closed Qualifier 25.04.2026 из-за подозрительной активности.
+
+- **K014NZ (Николай Глушнев, BY)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+- **Wign (RU)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+- **f1chper (RU)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+- **BloodyK (RU)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+- **MisterHy (RU)** — Нарушение соревновательной честности — 2026-04-25 → 2031-04-26 — команда: benched gods
+
+## bankaPEPSI — оценка честности со стороны CCT (2026-04-10)
+[Источник](https://liquipedia.net/counterstrike/Banned_Players/Other)
+
+### Бан на 18 месяцев (до 2027-10-10)
+> bankaPEPSI была дисквалифицирована 10.04.2026 по итогам проверки на добросовестность; игроки отстранены от всех турниров CCT на 18 месяцев.
+
+- **Bogdan “xsepower” Chernikov (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT — [HLTV](https://www.hltv.org/stats/players/12733/xsepower)
+- **lesswill (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT
+- **HUckLer (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT
+- **lUMiER (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT
+- **SEMSYS (RU)** — Нарушение соревновательной честности — 2026-04-10 → 2027-10-10 — команда: bankaPEPSI — источник: CCT
 
 ## PGL Astana 2026 West Asia Closed Qualifier (2026-03-29)
 [Источник](https://x.com/pglesports/status/2038324207877300705)
@@ -264,4 +381,5 @@ https://www.faceit.com/ru/players/Blessedez | Ban Evasion (aS1cKx666) | 2025-05-
 - FASTCUP / карточки игроков.
 - FACEIT / публичные страницы игроков.
 - Akros Anti-Cheat / публичные анонсы.
-- [Liquipedia другие забаненные игроки CS2](https://liquipedia.net/counterstrike/Banned_Players/Other)
+- [Liquipedia другие забаненные игроки CS2](https://liquipedia.net/counterstrike/Banned_Players/Other) — последняя синхронизация 2026-07-26.
+- Баны, выданные Федерацией киберспорта Украины (UESF), в этот банлист не переносятся.
